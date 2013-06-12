@@ -3,12 +3,15 @@ Semantical facts derivation using grammatical parser and first order predicate l
 *see the docs folder for more discussion and graphs*
 
 example:
+
 given predicates in plain language(scholarly articles):
-TGF Beta-1 causes increase in PH level
-increase in PH level contributes to development of cancer
+
+    TGF Beta-1 causes increase in PH level
+    increase in PH level contributes to development of cancer
 
 it can be derived that:
-TFG Beta-1 contributes to development of cancer
+
+    TFG Beta-1 contributes to development of cancer
 
 various parts of the system:
 
