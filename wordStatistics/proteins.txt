@@ -1,0 +1,1870 @@
+UI  - 10753721
+AB  - Transforming growth factor beta-1 (TGF-beta1), which is present in lung tissue, has been
+      suggested to play a role in modulating vascular cell function in vivo. The action of
+      TGF-beta1 in vivo, especially at the local site of application to connective tissue, is
+      anabolic and leads to pulmonary fibrosis and angiogenesis, strongly indicating that
+      TGF-beta may have practical applications in repair of tissue injury caused by burns,
+      trauma, or surgery. In the present study, we have used cultured bovine pulmonary artery
+      endothelial (BPAE) cells as a model system. Expression of various proteins, including
+      SPARC (secreted protein acidic and rich in cysteines), type IV procollagen and fibronectin
+      (FN) was examined by radiolabeling the cells with [3H]proline, immunoprecipitation with
+      specific antibodies, and Northern blot analyses by using specific cDNA probes. Cultured
+      cells were labeled with [3H]proline for 24 h in either the absence or in the presence of
+      TGF-beta1 (0-20 ng/ml). Incorporation of radioactivity was observed in a
+      concentration-dependent manner, maximal at 5 ng/ml. Northern blot hybridization
+      demonstrated that TGF-beta1 (5 ng/ml) treatment of BPAE cells caused an increase in
+      steady-state levels
+
+UI  - 20212543 
+AB  - Ku is a heterodimeric protein composed of approximately 70- and approximately 80-kDa
+      subunits (Ku70 and Ku80) originally identified as an autoantigen recognized by the sera of
+      patients with autoimmune diseases. Ku has high binding affinity for DNA ends and that is
+      why originally it was known as a DNA end binding protein, but now it is known to also
+      bind the DNA structure at nicks, gaps, hairpins, as well as the ends of telomeres. It has
+      been reported also to bind with sequence specificity to DNA and with weak affinity to
+      RNA. Ku is an abundant nuclear protein and is present in vertebrates, insects, yeast, and
+      worms. Ku contains ssDNA-dependent ATPase and ATP-dependent DNA helicase
+      activities. It is the regulatory subunit of the DNA-dependent protein kinase that
+      phosphorylates many proteins, including SV-40 large T antigen, p53, RNA-polymerase II,
+      RP-A, topoisomerases, hsp90, and many transcription factors such as c-Jun, c-Fos, oct-1,
+      sp-1, c-Myc, TFIID, and many more. It seems to be a multifunctional protein that has been
+      implicated to be involved directly or indirectly in many important cellular metabolic
+      processes such as DNA double-strand break repair, V(D)J recombination of
+      immunoglobulins and T-cell receptor genes, immunoglobulin isotype switching, DNA
+      replication, transcription regulation, regulation of heat shock-induced responses,
+      regulation of the precise structure of telomeric termini, and it also plays a novel role in G2
+      and M phases of the cell cycle. The mechanism underlying the regulation of all the diverse
+      functions of Ku is still obscure.
+
+UI  - 20216440
+AB  - MTs are small cysteine-rich metal-binding proteins found in many species and, although
+      there are differences between them, it is of note that they have a great deal of sequence
+      and structural homology. Mammalian MTs are 61 or 62 amino acid polypeptides containing
+      20 conserved cysteine residues that underpin the binding of metals. The existence of MT
+      across species is indicative of its biological demand, while the conservation of cysteines
+      indicates that these are undoubtedly central to the function of this protein. Four MT
+      isoforms have been found so far, MT-1, MT-2, MT-3, and MT-4, but these also have
+      subtypes with 17 MT genes identified in man, of which 10 are known to be functional.
+      Different cells express different MT isoforms with varying levels of expression perhaps as
+      a result of the different function of each isoform. Even different metals induce and bind to
+      MTs to different extents. Over 40 years of research into MT have yielded much
+      information on this protein, but have failed to assign to it a definitive biological role. The
+      fact that multiple MT isoforms exist, and the great variety of substances and agents that
+      act as inducers, further complicates the search for the biological role of MTs. This article
+      reviews the current knowledge on the biochemistry, induction, regulation, and degradation
+      of this protein in mammals, with a particular emphasis on human MTs. It also considers the
+      possible biological roles of this protein, which include participation in cell proliferation and
+      apoptosis, homeostasis of essential metals, cellular free radical scavenging, and metal
+      detoxification.
+
+UI  - 20216441
+AB  - Mycobacterium leprae multiplies within host macrophages. The mechanism of
+      internalisation of the bacteria by the phagocytic cells is unknown. In this study, M. leprae
+      was purified from the foot pads of experimentally infected nu/nu mice. Peritoneal
+      macrophages were harvested from BALB/c mice or C57 beige (bg/bg) mice. The effect of
+      protein kinase inhibitors (erbstatin, genistein or staurosporine for BALB/c and bg/bg mice,
+      plus herbimycin for bg/bg mice) on phagocytosis of the mycobacteria by the macrophage
+      monolayers was tested. The untreated (control) macrophages phagocytosed M. leprae.
+      Phagocytosis by BALB/c macrophages was inhibited by erbstatin and staurosporine but
+      not by genistein; all the protein kinase inhibitors prevented uptake of M. leprae by bg/bg
+      cells. The results demonstrate that protein kinase regulates phagocytosis of M. leprae by
+      macrophages. The mechanism might prove to be a rational drug target for mycobacteria
+      that multiply intracellularly.
+
+UI  - 20216403
+AB  - Hepatocyte growth factor (HGF), also known as scatter factor (SF), is a motogen, mitogen
+      and morphogen produced by mesenchymal cells that mainly acts on epithelial cells and is
+      involved in osteoclast stimulation. This study examined the possible enhanced production
+      of HGF/SF by human gingival fibroblasts upon stimulation with killed cells of
+      Porphyromonas gingivalis strain 381 and its representative bioactive cellular components,
+      fimbriae and lipopolysaccharide (LPS). P. gingivalis whole cells enhanced the production
+      of HGF/SF detected by ELISA in culture supernates of the fibroblasts. Fimbriae prepared
+      from P. gingivalis exhibited powerful HGF/SF-inducing activity in a
+      concentration-dependent manner, with peak activity observed at 100-200 microg/ml. The
+      fimbriae-induced HGF/SF mRNA expression by the cells was also detected by reverse
+      transcription-PCR. P. gingivalis LPS exhibited weak HGF/SF-inducing activity. The study
+      also examined the HGF/SF-inducing activity of seven synthetic peptides corresponding to
+      the segments of P. gingivalis fimbrial subunit protein. The peptides of residues 282-301
+      and 302-321, which exhibited antagonistic effects against P. gingivalis fimbriae-binding to
+      human gingival fibroblasts in a previous study, showed weak activity, whereas other
+      non-antagonistic peptides showed no significant activity. These findings indicated that P.
+      gingivalis fimbriae enhanced production of HGF/SF by human gingival fibroblasts,
+      whereas synthetic peptide segments of fimbrial subunit protein were not sufficient to exert
+      the activity.
+
+UI  - 20216401
+AB  - The low affinity receptor for IgG, FcgammaRIIB, functions to dampen the antibody
+      response and reduce the risk of autoimmunity. This function is reportedly mediated in part
+      by inhibition of B cell antigen receptor (BCR)-mediated p21ras activation, though the basis
+      of this inhibition is unknown. We show here that FcgammaRIIB-BCR coaggregation leads
+      to increased tyrosine phosphorylation of the RasGAP-binding protein p62dok, with a
+      concomitant increase in its binding to RasGAP. These effects require the recruitment and
+      tyrosine phosphorylation of the phosphatidylinositol 5-phosphatase SHIP, which further
+      recruits p62dok via the latter's phosphotyrosine-binding domain. Using chimeric
+      FcgammaRIIB containing the RasGAP-binding domain of p62dok, we demonstrate that
+      p62dok contains all structural information required to mediate the inhibitory effect of
+      FcgammaRIIB on Erk activation.
+
+UI  - 20216397
+AB  - GATA-3 is a T cell-specific transcription factor and is essential for the development of the
+      T cell lineage. Recently, it was shown that the expression of GATA-3 is further induced in
+      CD4+ helper T cells upon differentiation into type 2 but not type 1 effector cells. Here, we
+      report the molecular cloning of a GATA-3 interacting protein, repressor of GATA (ROG).
+      ROG is a lymphoid-specific gene and is rapidly induced in Th cells upon stimulation with
+      anti-CD3. In in vitro assays, ROG represses the GATA-3-induced transactivation.
+      Furthermore, overexpression of ROG in Th clones inhibits the production of Th cytokines.
+      Taken together, our results suggest that ROG might play a critical role in regulating the
+      differentiation and activation of Th cells.
+
+UI  - 20216395 
+AB  - In the pathogenesis of gastric mucosa-associated lymphoid tissue (MALT)-type
+      lymphoma, CagA-positive Helicobacter pylori strains have been suspected of making a
+      significant contribution. To investigate this hypothesis in more detail, the mucosal
+      humoral immune response of 15 patients with gastric MALT-type lymphoma was examined
+      in the tumor and in the tumor-free gastritis of the same patient. Mononuclear cells from
+      different sites (antrum, corpus, lymphoma) were cultured. Culture supernatant and serum
+      of the same patient were used for immunodetection of CagA. All patients displayed an
+      immune response to CagA in the tissue-culture supernatants. Although the humoral
+      immune response in the tumor was restricted to a very few H. pylori antigens, antibodies
+      directed against CagA protein were found in most patients. The immune response to CagA
+      in nearly all lymphoma patients--not only in the serum, but also in the mucosa, including
+      the tumor site--support the hypothesis that CagA is involved in the pathogenesis of
+      gastric MALT-type lymphoma.
+
+UI  - 20216376
+AB  - Ninety-six pure-bred Large White pigs weighing 80 to 100 kg were either not transported or
+      transported for eight, 16 or 24 hours, and then either slaughtered immediately on arrival at
+      the abattoir or kept in lairage for six hours before being slaughtered. The pigs travelling for
+      eight, 16 or 24 hours lost 2.2, 2.0 and 4.3 per cent of liveweight, respectively, and the pigs
+      travelling for 24 hours lost 2.6 per cent of hot carcase weight Both liveweight and hot
+      carcase weight recovered during the lairage period although there was a net liveweight
+      loss in comparison with the control animals. Only transport for 24 hours led to losses in
+      carcase weight The concentration of non-esterified fatty acids increased with the time
+      spent travelling. The concentrations of cortisol, creatine phosphokinase and lactate were
+      all low in comparison with the levels found in commercially slaughtered animals. Plasma
+      albumin and protein concentrations indicated that the animals were becoming dehydrated
+      during the longer journeys. The animals lay down for most of the journey and appeared to
+      be asleep. During the period in lairage, the animals transported for eight hours had two
+      distinct periods of feeding and drinking but spent most of the time lying down, but those
+      transported for 16 and 24 hours showed far more eating and drinking activity. All the
+      groups appeared tired, but the urge to eat of the groups transported for 16 hours, and
+      especially 24 hours appeared to be more important. There were behavioural and the
+      physiological differences between the transported groups and the controls. Six hours in
+      lairage with access to food and water allowed most of the physiological parameters to
+      return to pretransport levels.
+
+
+UI  - 20216363
+AB  - BACKGROUND: Chronic rejection is a major cause of graft dysfunction after kidney
+      transplantation. This fibroproliferative disease may be promoted by overproduction of
+      transforming growth factor beta (TGF-beta). Previous studies have suggested that CsA
+      might increase production of this growth factor. The current study was designed to
+      measure the expression of TGF-beta(b) in renal transplant biopsy specimens from patients
+      undergoing immunosuppressive therapy with either CsA or tacrolimus (FK506). METHOD:
+      Paraffin-embedded renal biopsy specimens were sectioned, dewaxed, and incubated with
+      primary antibody against TGF-beta(b)1 latency-associated protein and active
+      TGF-beta(b1). After washing, the sections were treated with secondary antibody
+      conjugated with FITC. In each case, the sections were assessed by semi-quantitative
+      scanning laser confocal microscopic method. RESULTS: There was no significant
+      difference in latent TGF-beta(b) expression between biopsy specimens from patients
+      receiving CsA and patients receiving FK506. However, biopsy specimens from patients
+      receiving CsA expressed significantly more active TGF-beta(b1) than biopsy specimens
+      from patients receiving FK506 (P<0.0001, Mann-Whitney test). DISCUSSION: The
+      increased level of active TGF-beta1 expression in renal biopsy specimens of patients
+      receiving CsA may indicate a mechanism of chronic rejection. However, these biopsies
+      were performed to assess deranged renal function; therefore, the specimens may reflect
+      events rather than differences in medication.
+
+UI  - 20216343 
+AB  - BACKGROUND: Increased expression of chemokine mRNA is observed in allogeneic but
+      not syngeneic skin grafts 3-4 days after transplantation. The recipient cells mediating this
+      early inflammatory response in allografts remain unidentified. METHODS: Isogeneic and
+      allogeneic skin grafts were transplanted to euthymic and athymic nude mice. mRNA
+      expression and protein production of macrophage inflammatory protein-1alpha
+      (MIP-1alpha), MIP-1beta, and the murine homolog of Gro(alpha), i.e. KC, from graft
+      homogenates retrieved 3-4 days posttransplantation was tested by Northern blot
+      hybridization and ELISA. To deplete NK cells, recipients were treated with antiasialo GM1
+      (ASGM1) antisera or with anti-NK1.1 mAb before transplantation. RESULTS: Expression of
+      KC, MIP-1alpha, and MIP-1beta mRNA was equivalent in C57BL/6 allogeneic skin grafts
+      and BALB/c isografts at day 2 posttransplant. At day 3 posttransplant, chemokine mRNA
+      levels decreased in isografts but were maintained at high levels in the allografts. Increased
+      early chemokine mRNA was also observed in C57BL/6, but not BALB/c++ grafts on
+      BALB/c athymi(nu/nu) recipients. Treatment of allograft recipients with ASGM1 or with
+      anti-NK1.1 antibody eliminated NK cells from the spleen and allograft infiltrating cell
+      populations and decreased early chemokine mRNA levels in allografts 60-70%. Analyses
+      of allograft homogenates indicated increased levels of KC, MIP-1alpha, and MIP-1beta
+      protein at day 4 posttransplant that were decreased in recipients depleted of NK cells.
+      Early chemokine mRNA levels were equivalent in isogeneic and semiallogeneic F1 grafts.
+      CONCLUSIONS: Early chemokine mRNA expression and protein production in allogeneic
+      skin grafts is amplified by recipient natural killer (NK) cells. These results indicate a novel
+      function for infiltrating NK cells in mediating early increased intra-allograft chemokine
+      production and inflammation during the initiation of acute rejection.
+
+UI  - 20216335
+AB  - The effect of pre- and post-challenge treatments with trifluoperazine and
+      palmitoylcarnitine, two protein kinase C (PKC) inhibitors characterised by their interaction
+      with the phospholipid enzyme cofactor, on the inflammation caused by delayed
+      hypersensitivity (DTH) to dinitrofluorobenzene (DNFB) and sheep red blood cells (SRBC)
+      in mice is reported. The activity of dexamethasone and two immunosupressors,
+      azathioprine and methotrexate, is also evaluated. The effectiveness of pre-treatment with
+      each of the test drugs diminished when the DNFB challenge dose increased, whereas
+      trifluoperazine and azathioprine were more active when administered after the challenge at
+      the high DNFB dose. Trifluoperazine, which is also a calmodulin-antagonist, was the more
+      effective of the PKC inhibitors tested on DNFB-DTH (39% and 59% inhibition swelling 24
+      and 96 h after challenge, respectively). SRBC-DTH was sensitive only to the action of the
+      drugs given after challenge. In this test, PKC inhibitors showed a moderate effect, in the
+      same range as methotrexate, whereas dexamethasone suppressed the reaction. The ability
+      of trifluoperazine in inhibiting cutaneous DTH reaction, depending on the treatment
+      schedule and the hapten challenge dose, has been determined.
+
+UI  - 20216251 
+AB  - Cordyceps sinensis is a herb medicine in China for the treatment of general debility after
+      sickness and for persons of advanced age. In the present study, cordyceps sinensis was
+      extract by phosphate buffer saline (PBS) and dialyzed overnight against PBS using a
+      membrane cut off at 3,500 dalton molecular weight. The resulting macromolecule fraction
+      (defined as CS) was assayed in anesthetized rats for hypotensive effects and in isolated
+      aorta for vasorelaxant effects. Intravenous injection of CS (8,16, 24 and 32 mg/kg,
+      respectively) suppressed significantly the mean arterial pressure (MAP) in a
+      dose-dependent manner. 32 mg/kg of CS induces the maximal hypotensive response with a
+      58 +/- 4 mm Hg (from 107 +/- 6 to 49 +/- 3 mm Hg) change in MAP and a over 45 min action
+      duration. In aortic rings precontracted with phenylephrine treatment with CS between 0.5
+      and 500 microg/ml induced dose dependent relaxation. Maximal vasorelaxant response
+      evoked by 150 microg/ml CS was 68.9 +/- 7.3%. Furthermore, CS-induced vasorelaxation is
+      mediated by the endothelium possibly by stimulating the release of the nitric oxide and
+      endothelium-derived hyperpolarizing factor. In conclusion, the present study revealed that
+      presence of a constituent in CS which reduces MAP by relaxing the vascular beds directly.
+      However, the effect may be caused by a single active ingredient or by the combined action
+      of many active agents found in the extract.
+
+UI  - 20216249 
+AB  - Our analyses of cathepsin H activity levels and protein forms in human colorectal cancers
+      compared to matched control mucosa support the concept that altered proteinase
+      expression patterns may reflect both cancer stage and site. Cathepsin H-specific activity
+      was significantly increased in colorectal cancers compared to control mucosa (P = 0.003; n
+      = 77). Highest specific activities and cancer/normal ratios (C/N) for activity were measured
+      in Dukes' B and C stage carcinomas, cancers involved in local spread and invasion to
+      lymph nodes. In contrast, cathepsin B and L activities analysed in the same paired extracts
+      had been shown to be most frequently elevated in earlier stage carcinomas (Dukes' A and
+      B), confirming that cathepsin H demonstrates a distinct pattern of expression during
+      colorectal cancer progression. Although cathepsin H activities were most commonly
+      elevated in Dukes' C cancers at all colon sites, both specific activity and C/N ratios were
+      significantly higher for cancers of the left colon compared to other colon locations. A
+      subset of 43 paired extracts analysed on Western blots also revealed consistent changes
+      in cathepsin H protein forms in cancers. Normal mucosa typically showed a strong protein
+      doublet at 31 and 29 kDa while cancers demonstrated decreased expression or total loss of
+      the 31 kDa protein (90% of cases), equal or increased expression of the 29-kDa protein
+      (67% of cases) and the new appearance or up-regulation of a cathepsin H band at 22 kDa
+      (78% of cases). C/N ratios for cathepsin H enzyme activity correlated significantly with
+      C/N ratios for the 29 kDa mature single-chain protein form (P < 0.001), with increased
+      activity most commonly associated with elevated expression of 29-kDa cathepsin H but
+      also with up-regulation of the 22-kDa band, suggesting a shift to more fully processed,
+      mature active cathepsin H protein forms in cancers. Changes in cathepsin H expression
+      were also detected by immunohistochemistry as elevated cathepsin H staining in tumour
+      epithelial cells.
+
+UI  - 20216184 
+AB  - Mitomycin C (MMC) is a prototype bioreductive drug employed to treat a variety of
+      cancers including head and neck cancer. Among the various enzymes, dicoumarol
+      inhibitable cytosolic NAD(P)H:quinone oxidoreductase1 (NQO1) was shown to catalyse
+      bioreductive activation of MMC leading to cross-linking of the DNA and cytotoxicity.
+      However, the role of NQO1 in metabolic activation of MMC has been disputed. In this
+      report, we present cellular and animal models to demonstrate that NQO1 may play only a
+      minor role in metabolic activation of MMC. We further demonstrate that bioreductive
+      activation of MMC is catalysed by a unique cytosolic activity which is related but distinct
+      from NQO1. Chinese hamster ovary (CHO) cells were developed that permanently express
+      higher levels of cDNA-derived NQO1. These cells showed significantly increased
+      protection against menadione toxicity. However, they failed to demonstrate higher
+      cytotoxicity due to exposure to MMC under oxygen (normal air) or hypoxia, as compared
+      to the wild-type control CHO cells. Disruption of the NQO1 gene by homologous
+      recombination generated NQO1-/- mice that do not express the NQO1 gene resulting in the
+      loss of NQO1 protein and activity. The cytosolic fractions from liver and colon tissues of
+      NQO1-/- mice showed similar amounts of DNA cross-linking upon exposure to MMC, as
+      observed in NQO1+/+ mice. The unique cytosolic activity that activated MMC in cytosolic
+      fractions of liver and colon tissues of NQO1-/- mice was designated as cytosolic MMC
+      reductase. This activity, like NQO1, was inhibited by dicoumarol and immunologically
+      related to NQO1.
+
+UI  - 20216182 
+AB  - Methylation of the p16 gene was studied in 16 oesophageal tumours. Five (31%) of the
+      tumours were found to be methylated in exon 1 and eight (50%) were methylated in exon 2.
+      The loss of p16 protein correlated with methylation of exon 1 (P = 0.005). However,
+      methylation of exon 2, but not exon 1, was found to be associated with late stage tumours
+      (P = 0.01). We conclude that the methylation of exon 2 of p16 may have effects on the
+      progression of oesophageal tumours that are independent of the expression of the p16
+      protein.
+
+UI  - 20216163
+AB  - A procedure is presented for determination of the catechol-O-methyltransferase (COMT)
+      activity in liver cytosolic preparations using 3,4-dihydroxyphenethylamine as substrate
+      and by quantifying the product 3-methoxy-4-hydroxyphenethylamine (3-MHP). For
+      quantification of 3-MHP in liver cytosolic preparations a gas chromatographic-mass
+      spectrometric procedure after liquid-liquid extraction and acetylation was established and
+      validated. The intra- and inter-day accuracy and precision were better than 15% and 20%,
+      respectively. Extraction efficiency and selectivity were also sufficient. For in statu
+      nascendi derivatization of unstable catecholic metabolites in liver microsome preparations,
+      cytosolic preparations with COMT activities of at least 1 nmol product/min/mg protein
+      were used after addition of S-adenosylmethionine. Such catecholic metabolites, which are
+      claimed to be responsible for toxic effects in vivo, e.g., neurotoxicity or carcinogenesis,
+      must not be overlooked in in vitro metabolism studies. Using this trick, gas
+      chromatography-mass spectrometry (GC-MS) was suitable for the determination of
+      catecholic metabolites in human and rat liver preparations after the same sample
+      preparation as for 3-MHP quantification. The applicability was exemplified for the
+      antidepressant paroxetine.
+
+UI  - 20216152 
+AB  - Heterologous expression of NodZ and NolL proteins in Rhizobium leguminosarum bv.
+      viciae led to the production of acetyl fucosylated lipo-chitin oligosaccharides (LCOs),
+      indicating that the NolL protein obtained from Mesorhizobium loti functions as an acetyl
+      transferase. We show that the NolL-dependent acetylation is specific for the fucosyl
+      penta-N-acetylglucosamine species. In addition, the NolL protein caused elevated
+      production of LCOs. Efficient nodulation of Lotus japonicus by the NodZ/NolL-producing
+      strain was demonstrated. Nodulation efficiency was further improved by the addition of
+      the ethylene inhibitor L-alpha-(2-aminoethoxyvinyl) glycine (AVG).
+
+UI  - 20216088
+AB  - In order to study molecular interactions that occur between rice and rice blast fungus upon
+      infection, we isolated fungal elicitor-responsive genes from rice (Oryza sativa cv. Milyang
+      117) suspension-cultured cells treated with fungal elicitor prepared from the rice blast
+      fungus (Magnaporthe grisea) employing a method that combined mRNA differential
+      display and cDNA library screening. Data base searches with the isolated cDNA clones
+      revealed that the OsERG1 and OsERG2 cDNAs share significant similarities with the
+      mammalian Ca2+-dependent lipid binding (C2) domains. The OsCPX1 cDNA is highly
+      homologous to peroxidases. The OsHin1 cDNA exhibits homology to the tobacco hin1
+      gene, whose expression is induced by avirulent pathogens. The OsLPL1 and OsMEK1
+      cDNAs share homologies with lysophospholipases and serine/threonine
+      mitogen-activated protein (MAP) kinase kinases, respectively. The OsWRKY1 and
+      OsEREBP1 cDNAs are homologous to transcription factors, such as the WRKY protein
+      family and the AP2/EREBP family, respectively. Transcripts of the OsERG1, OsHin1, and
+      OsMEK1 genes were specifically elevated only in response to the avirulent race KJ301 of
+      the rice blast fungus. Our study yielded a number of elicitor-responsive genes that will not
+      only provide molecular probes, but also contribute to our understanding of host defense
+      mechanisms against the rice blast fungus.
+
+
+UI  - 20216087 
+AB  - Genistein, tyrphostin and piceatannol, which are specific inhibitors of protein tyrosine
+      kinase, were screened for their effects on the motility of intact and demembranated hamster
+      spermatozoa. Of the three inhibitors only piceatannol inhibited the motility of intact
+      spermatozoa. None of the inhibitors had any inhibitory effect on the reactivation of
+      motility of demembranated hamster spermatozoa. Taken together these results indicated
+      that a protein tyrosine kinase associated with the membrane of hamster spermatozoa was
+      probably involved in sustenance of hamster sperm motility. Therefore in the present study
+      a membrane-associated protein tyrosine kinase was purified from a detergent-soluble
+      extract of plasma membranes of mature hamster spermatozoa. The purification involved
+      cation exchange chromatography on fast protein liquid chromatography (FPLC) followed
+      by affinity chromatography either on an antiphosphotyrosine antibody agarose or poly
+      glu-tyr agarose column. The pure protein tyrosine kinase had an apparent molecular mass
+      of 45 kDa. The enzyme was not inhibited by genistein or herbimycin but was inhibited by
+      piceatannol. This is the first report on the purification of a sperm plasma
+      membrane-associated protein tyrosine kinase, an enzyme which has also been implicated in
+      hamster sperm motility.
+
+UI  - 20217994 
+AB  - Phosphorylation of G-protein-coupled receptors by second-messenger-stimulated kinases
+      is central to the process of receptor desensitization [1] [2] [3]. Phosphorylation of the
+      beta(2)-adrenergic receptor (beta(2)-AR) by protein kinase A (PKA), in addition to
+      uncoupling adenylate cyclase activation, is obligatory for receptor-mediated activation of
+      mitogen-activated protein kinase (MAP kinase) cascades [4] [5]. Although mechanisms for
+      linking G-protein-coupled receptor kinases to the activated receptor are well established,
+      analogous mechanisms for targeting second messenger kinases to the beta(2)-AR at the
+      plasma membrane have not been elucidated. Here we show that the A-kinase-anchoring
+      protein, AKAP79/150, co-precipitates with the beta(2)-AR in cell and tissue extracts,
+      nucleating a signaling complex that includes PKA, protein kinase C (PKC) and protein
+      phosphatase PP2B. The anchoring protein directly and constitutively interacts with the
+      beta(2)-AR and promotes receptor phosphorylation following agonist stimulation.
+      Functional studies show that PKA anchoring is required to enhance beta(2)-AR
+      phosphorylation and to facilitate downstream activation of the MAP kinase pathway. This
+      defines a role for AKAP79/150 in the recruitment of second-messenger-regulated signaling
+      enzymes to a G-protein-coupled receptor.
+
+      
+UI  - 10753752
+AB  - The properties of the microtubule network are regulated at various levels including
+      tissue-dependent isotype switching, post-translational modification of alpha- and
+      beta-tubulin, and by a variety of microtubule-associated molecules (for reviews, see [1] [2]
+      [3]). Microtubule nucleation is attributed to gamma-tubulin, which is present in protein
+      complexes at the centrosome and in the cytoplasm [4] [5]. A screen for flagellar mutants in
+      the green alga Chlamydomonas reinhardtii has led to the identification of a fourth member
+      of the tubulin gene superfamily, delta-tubulin. In this unicellular organism, the lack of a
+      functional delta-tubulin gene copy causes aberrant numbers of flagella, depending on the
+      age of the corresponding basal bodies; mutants also show abnormal ultrastructure of the
+      basal bodies and a misplacement of the cleavage furrow at mitosis [6]. Here, we report the
+      isolation of the mouse delta-tubulin homologue and show that the gene is highly
+      expressed in testis. In the elongating spermatid, delta-tubulin associated with the
+      manchette, a specialised microtubule system present during reshaping of the sperm head.
+      The protein specifically localised at the perinuclear ring of the manchette, at the centriolar
+      vaults and along the principal piece of the sperm flagellum. In somatic cell lines, unlike
+      most other tubulins, mammalian delta-tubulin was both cytoplasmic and nuclear and did
+      not colocalise with microtubules. The protein was enriched at the spindle poles during
+      mitosis and we found that gamma-tubulin coimmunoprecipitated with delta-tubulin.
+      Together, the data indicate a specialised role for mammalian delta-tubulin that is distinct
+      from other known tubulins.
+
+      
+UI  - 10753753
+AB  - Centrosomes orchestrate microtubule nucleation and spindle assembly during cell division
+      [1] [2] and have long been recognized as major anchoring sites for cAMP-dependent
+      protein kinase (PKA) [3] [4]. Subcellular compartmentalization of PKA is achieved through
+      the association of the PKA holoenzyme with A-kinase anchoring proteins (AKAPs) [5] [6].
+      AKAPs have been shown to contain a conserved helical motif, responsible for binding to
+      the type II regulatory subunit (RII) of PKA, and a specific targeting motif unique to each
+      anchoring protein that directs the kinase to specific intracellular locations. Here, we show
+      that pericentrin, an integral component of the pericentriolar matrix of the centrosome that
+      has been shown to regulate centrosome assembly and organization, directly interacts with
+      PKA through a newly identified binding domain. We demonstrate that both RII and the
+      catalytic subunit of PKA coimmunoprecipitate with pericentrin isolated from HEK-293 cell
+      extracts and that PKA catalytic activity is enriched in pericentrin immunoprecipitates. The
+      interaction of pericentrin with RII is mediated through a binding domain of 100 amino acids
+      which does not exhibit the structural characteristics of similar regions on conventional
+      AKAPs. Collectively, these results provide strong evidence that pericentrin is an AKAP in
+      vivo.
+
+      
+UI  - 10753751 
+AB  - Myosin-II is required for cytokinesis in Schizosaccharomyces pombe [1] [2] [3], but unlike
+      other unicellular organisms, S. pombe has two structurally distinct myosin-IIs, Myo2p and
+      Myp2p, which are required under different conditions [4]. Disruption of myo2(+) is lethal,
+      whereas disruption of myp2(+) leads to defects in cytokinesis when nutrients are limiting
+      and to cold-sensitivity in 1 M KCl. In dividing cells, both myosin-IIs localize to a ring in
+      the center of the cell, which is thought to contract, separating the cytoplasms of the
+      daughter cells. Using deconvolution microscopy, we obtained three-dimensional
+      reconstructions of fission yeast cells expressing green fluorescent protein-labeled
+      (GFP)-myosin-II, providing for the first time detailed images of GFP-myosin-II rings. By
+      time-lapse microscopy, we observed ring assembly and contraction in three dimensions
+      using GFP-tubulin as a cell cycle marker. We determined that the Myo2p ring forms in
+      metaphase/anaphase A whereas the Myp2p ring forms much later, at the end of anaphase
+      B. Myo2p initiates ring formation while Myp2p acts later to increase the efficiency of
+      cytokinesis.
+
+      
+UI  - 10753748 
+AB  - The Sendai virus RNA polymerase is a complex of two virus-encoded proteins, the
+      phosphoprotein (P) and the large (L) protein. When aligned with amino acid sequences of
+      L proteins from other negative-sense RNA viruses, the Sendai L protein contains six
+      regions of good conservation, designated domains I-VI, which have been postulated to be
+      important for the various enzymatic activities of the polymerase. To directly address the
+      roles of domains IV and VI, 14 site-directed mutations were constructed either by changing
+      clustered charged amino acids to ala or by substituting selected Sendai L amino acids with
+      the corresponding sequence from measles virus L. Each mutant L protein was tested for its
+      ability to transcribe and replicate the Sendai genome. The series of mutations created a
+      spectrum of phenotypes, from those with significant, near wild-type, activity to those
+      being completely defective for all RNA synthesis. The inactive L proteins, however, were
+      still able to bind P protein and form a polymerase capable of binding the nucleocapsid
+      template. The remainder of the mutations reduced, but did not abolish, enzymatic activity
+      and included one mutant with a specific defect in the synthesis of the leader RNA
+      compared with mRNA, and three mutants that replicated genome RNA much more
+      efficiently in vivo than in vitro. Together, these data suggest that even within a domain,
+      the function of the Sendai L protein is likely to be very complex. In addition, SS3 and SS10
+      L in domain IV and SS13 L in domain VI were shown to be temperature-sensitive. Both SS3
+      and SS10 gave significant, although not wild-type, activity at 32 degrees C; however, each
+      was completely inactivated for all RNA synthesis at 37 and 39.6 degrees C. SS13 was
+      completely inactive only when synthesized at the higher temperature. Each polymerase
+      synthesized at 32 degrees C could only be partially heat inactivated in vitro at 39.6 degrees
+      C, suggesting that inactivation involves both thermal lability of the protein and
+      temperature sensitivity for its synthesis. Copyright 2000 Academic Press.
+
+      
+
+
+
+UI  - 20155478 
+AB  - The Mdm-1 gene was mapped to the distal end of Chromosome (Chr) 10. An extensive
+      series of restriction fragment variants was identified among conventional and exotic inbred
+      strains of mice. Mapping was carried out with recombinant inbred strains and an
+      intersubspecific testcross. No recombinants were observed between Mdm-1 and the
+      gamma interferon locus (Ifg). These two loci appear to be in linkage disequilibrium among
+      inbred strains. Data from the testcross place Mdm-1 approximately 11 centimorgans distal
+      to the steel (Sl) locus. Because of its extensive polymorphism, Mdm-1 is a useful genetic
+      marker for distal Chr 10.
+
+
+UI  - 20174548
+AB  - Single photon emission computed tomography (SPECT) with 123I-iodobenzamide
+      (123I-IBZM) was used to study 22 chronic schizophrenic patients. The patients, who were
+      receiving maintenance therapy with typical neuroleptics, had not shown any significant
+      improvement since their admission to the hospital. Basal ganglia/frontal cortex ratios of the
+      uptake of 123I-IBZM did not show significant differences on the basis of neuroleptic
+      dosage in chlorpromazine equivalents. There were, however, significant differences in
+      123I-IBZM uptake in the basal ganglia among patients characterized by negative, mixed,
+      and positive symptoms of schizophrenia. Although only a small number of patients had
+      shown a positive response to treatment by the time of discharge, D2 receptor blockade
+      was significantly higher in responders than in nonresponders. In addition, there was an
+      inverse correlation between reduced activation as measured by the Brief Psychiatric Rating
+      Scale and the basal ganglia/frontal cortex ratio. These findings suggest a complex
+      pathogenetic link between the blockade of dopamine D2 receptors and psychopathology
+      in chronic schizophrenic patients. SPECT studies with 123I-IBZM appear to have
+      prognostic value in identifying chronic schizophrenic patients who respond poorly to
+      neuroleptic treatment.
+
+
+UI  - 20174941 
+AB  - Long-term desensitization of AMPA receptors (LTDA) is a core mechanism of long-term
+      depression, a model of motor learning in the cerebellum. In this study we investigated the
+      expression of neurotrophic factor genes after induction of LTDA in cultured cerebellar
+      slices. LTDA was induced by application of quisqualate and monitored as a population
+      response with a wedge recording technique. The levels of mRNA were quantified by
+      reverse transcription followed by polymerase chain reaction. Quisqualate, at a dose and
+      duration that reliably induced LTDA, elicited a significant and specific increase in BDNF
+      mRNA with a peak at four hours after the application. By cell fractionation, the major
+      source of BDNF mRNA increase was found to be in granule cells. In addition, a small but
+      significant increase of transcripts with specific exon usage was observed in a Purkinje cell
+      fraction. These results indicate that BDNF may be coinduced with LTDA and suggest that
+      the slow and sustained increase of BDNF mRNA might play a role in later phases of
+      synaptic plasticity in the cerebellum.
+
+
+UI  - 99396931 
+AB  - Recent studies indicate that stimulation of NMDA receptors in cultured hippocampal cells
+      activates MAP kinase. Although the pathway whereby MAP kinase is activated has been
+      been characterized, little is known about the mechanisms that shut off MAP kinase. In the
+      course of analyzing several immediate-early genes identified previously by differential
+      screen as inducible by seizure activity, we found that one of them, BAD2, encodes dual
+      purpose, threonine/tyrosine phosphates with specific activity directed against MAP
+      kinase (MKP-1). In situ hybridization of BAD2 demonstrates that stimuli that produce
+      seizure, kindling, and long-term potentiation cause a rapid increase in BAD2 mRNA (within
+      0.5-1 hr after stimulation) that has, in each case, a distinctive pattern of expression in the
+      brain. In these regions, the induction of a MAP kinase-specific phosphatase may provide a
+      negative feedback control associated with long-term synaptic changes.
+
+UI  - 99396926 
+AB  - Programs of gene activation may underlie long-term adaptive cellular responses to
+      extracellular ligands. We have used a differential cDNA cloning strategy to identify genes
+      that are strongly induced by excitatory stimuli in the adult rat hippocampus. Here, we
+      report the rat cDNA sequence of a zinc-finger transcription factor, Egr3/Pilot, and
+      characterize its regulated mRNA expression in brain. Egr3 mRNA is rapidly and transiently
+      induced in neurons of the hippocampus and cortex by electroconvulsive seizure. mRNA
+      levels peak 2 hr after the seizure and remain elevated for as long as 8 hr. Egr3 mRNA is also
+      rapidly induced in granule cells of the dentate gyrus by synaptic NMDA receptor
+      activation elicited by patterned stimulation of the perforant pathway and by drugs that
+      alter dopamine neurotransmission in the striatum. Basal levels of Egr3 mRNA in the cortex
+      appear to be driven by natural synaptic activity because monocular deprivation rapidly
+      decreases Egr3 mRNA in the deafferented visual cortex. Aspects of the protein structure,
+      sequence-specific DNA binding, transcriptional activity, and regulation of Egr3 are highly
+      similar to another zinc-finger transcription factor, Egr1/zif268. Moreover, we demonstrate
+      colocalization of Egr3 and zif268 mRNAs in neurons of normal and stimulated cortex. Our
+      studies suggest that interactions between these coregulated transcription factors may be
+      important in defining long-term, neuroplastic responses.
+
+UI  - 99396923
+AB  - A mathematical model for the cell cycle is proposed that incorporates the known
+      biochemical reactions involving both cyclin A and cyclin B, the interactions of these
+      cyclins with cdc2 and cdk2, and the controlling effects of cdc25 and weel. The model also
+      postulates the existence of an as yet unknown phosphatase involved in the formation of
+      maturation promoting factor. The model produces solutions that agree qualitatively with a
+      wide variety of experimentally observed cell-cycle behaviour. Conditions under which the
+      model could explain the initial rapid divisions of embryonic cells and the transition to the
+      slower somatic cell cycle are also discussed.
+
+UI  - 99392699 
+AB  - The retinoblastoma gene product (pRB) is a nuclear phosphoprotein with
+      growth-suppressing effects. During early G1 phase, pRB is underphosphorylated and
+      bound in the nucleus. The association between the duration of the cell cycle/G1 phase and
+      the fraction of cells in G1 with bound pRB was studied in the human pre-B cell line Reh.
+      The cell-cycle duration was varied by growing cells at different concentrations (25, 10, 2,
+      0.5 and 0%) of fetal calf serum (FCS); pRB binding was studied by flow cytometry. The
+      culture doubling time increased from 21 h in 25% FCS to 54 h in 0.5% FCS. Cell death
+      occurred in the absence of FCS, and the culture doubling time therefore could not be
+      defined. The fraction of cells in G1 did not change significantly with decreasing FCS
+      concentration (0.47 in 25% FCS, 0.52 in 0% FCS). In contrast, the fraction of G1 cells with
+      bound pRB increased from 0.12 in 25% FCS to 0.65 in 0% FCS. Continuous labelling with
+      bromodeoxyuridine demonstrated that the growth fraction was close to unity at all FCS
+      concentrations down to 0.5%, hence, the duration of the cell cycle was equal to the culture
+      doubling time under these conditions. The duration of early G1 phase (where pRB is
+      underphosphorylated and bound) increased 10-fold, while the duration of late G1 phase
+      increased twofold, for Reh cells grown in 0.5% FCS compared with cells grown in 25% FCS.
+      The increase in the duration of late G1, and the increased S and G2+M phase transit times,
+      indicate that other factors, in addition to pRB kinase activity, regulate the duration of G1
+      and the cell cycle of serum-deprived Reh cells.
+
+UI  - 99392698 
+Ab  - The binding characteristics of pirenzepine and oxomemazine to muscarinic receptor were
+      studied to evaluate the selectivity of oxomemazine for the muscarinic receptor subtypes in
+      rat cerebral microsomes. Equilibrium dissociation constant (KD) of (-)-[3H]quinuclidinyl
+      benzilate([3H]QNB) determined from saturation isotherms was 64 pM. Analysis of the
+      pirenzepine inhibition curve of [3H]QNB binding to cerebral microsome indicated the
+      presence of two receptor subtypes with high (Ki = 16 nM, M1 receptor) and low (Ki = 400
+      nM, M3 receptor) affinity for pirenzepine. Oxomemazine also identified two receptor
+      subtypes with about 20-fold difference in the affinity for high (Ki = 84 nM, OH receptor)
+      and low (Ki = 1.65 microM, OL receptor) affinity sites. The percentage populations of M1
+      and M3 receptors to the total receptors were 61:39, and those of OH and OL receptors
+      39:61, respectively. Both pirenzepine and oxomemazine increased the KD value for
+      [3H]QNB without affecting the binding site concentrations and Hill coefficient for the
+      [3H]QNB binding. Oxomemazine had a 10-fold higher affinity at M1 receptors than at M3
+      receptors, and pirenzepine a 8-fold higher affinity at OH receptors than at OL receptors.
+      Analysis of the shallow competition binding curves of oxomemazine for M1 receptors and
+      pirenzepine for OL receptors yielded that 69% of M1 receptors were of OH receptors and
+      the remaining 31% of OL receptors, and that 29% of OL receptors were of M1 receptors
+      and 71% of M3 receptors. However, M3 for oxomemazine and OH for pirenzepine were
+      composed of a uniform population. These results suggest that oxomemazine could be
+      classified as a selective drug for M1 receptors and also demonstrate that rat cerebral
+      microsomes contain three different subtypes of M1, M3 and the other site which is
+      different from M1, M2 and M3 receptors.
+
+UI  - 99252714 
+AB  - The present study was undertaken to demonstrate whether or not angiotensin II activates
+      a phospholipase D in rabbit kidney proximal tubule cells. By measuring the formation of
+      [3H]phosphatidic acid and [3H]phosphatidylethanol, we elucidate the direct stimulation of
+      phospholipase D by angiotensin II. Angiotensin II leads to a rapid increase in
+      [3H]phosphatidic acid and [3H]diacylglycerol, and [3H]phosphatidic acid formation
+      preceded the formation of [3H]diacylglycerol. This result suggests that some phosphatidic
+      acid seems to be formed directly from phosphatidylcholine by the action of phospholipase
+      D, not from the action of diacylglycerol kinase on the diacylglycerol. In addition, the other
+      mechanisms by which phospholipase D is activated was examined. We have found that
+      phospholipase D was activated by extracellular calcium ion. It has also been shown that
+      angiotensin II may activate phospholipase D through protein kinase C-independent
+      pathway.
+
+UI  - 99252706 
+AB  - It has been demonstrated that microtubule-associated proteins (MAPs) interact with
+      tubulin in vitro and in vivo. However, there is no clear evidence on the possible roles of
+      the interactions of MAPs in vivo with other cytoskeletal components in maintaining the
+      integrity of the cell architecture. To address this question we extracted the neuronal
+      cytoskeleton from brain cells and studied the selective dissociation of specific molecular
+      isospecies of tau protein under various experimental conditions. Tau, and in some cases
+      MPA-2, were analysed by the use of anti-idiotypic antibodies that recognize epitopes on
+      their tubulin binding sites. Fractions of microtubule-bound tau isoforms were extracted
+      with 0.35 M NaCl or after the addition of nocodazole to allow microtubule
+      depolymerization. Protein eluted with this inhibitor contained most of the assembled
+      tubulin dimer pool and part of the remaining tau and MAP-2. When the remaining
+      cytoskeletal pellet was treated with cytochalasin D to allow depolymerization of actin
+      filaments, only tau isoforms were extracted. Immunoprecipitation studies along with
+      immunolocalization experiments in cell lines containing tau-like components supported the
+      findings on the roles of tau isospecies as linkers between tubulin in the microtubular
+      structure with actin filaments. Interestingly, in certain types of cells, antibody-reactive tau
+      isospecies were detected by immunofluorescence with a discrete distribution pattern along
+      actin filaments, which was affected by cytochalasin disruption of the actin filament
+      network. These results suggest the possible in vivo roles of subsets of tau protein in
+      modulating the interactions between microtubules and actin filaments.
+
+UI  - 99247251 
+AB  - In membranes of rat olfactory bulb, muscarinic receptor agonists stimulate basal adenylyl
+      cyclase activity . This response is inhibited by a number of muscarinic receptor
+      antagonists with a rank order of potency suggesting the involvement of the M4 muscarinic
+      receptor subtype. The stimulatory effect does not require Ca2+ and occurs independently
+      of activation of phosphoinositide hydrolysis. Pretreatment with pertussis toxin completely
+      prevents the muscarinic stimulation of adenylyl cyclase, indicating the participation of G
+      proteins of the Gi/Go family. Immunological impairment of the G protein, Gs, also reduces
+      the muscarinic response, whereas concomitant activation of Gs-coupled receptors by CRH
+      or VIP results in a synergistic stimulation of adenylyl cyclase activity. Although these data
+      suggest a role for Gs, a body of evidence indicates that the muscarinic receptors do not
+      interact directly with this G protein. Moreover, the Ca2+/calmodulin (Ca2+/CaM)- and
+      forskolin-stimulated enzyme activities are inhibited by muscarinic receptor activation in a
+      pertussis toxin-sensitive manner and with a pharmacological profile similar to that
+      observed for the stimulatory response. These data indicate that in rat olfactory bulb M4
+      muscarinic receptors exert a bimodal control on cyclic AMP formation through a sequence
+      of events that may involve activation of Gi/Go proteins, synergistic interaction with Gs and
+      differential modulation of Ca2+/CaM-independent and -dependent forms of adenylyl
+      cyclase.
+
+UI  - 99202684 
+AB  - Muscarinic agonists elicit contraction in the standard guinea pig ileum bioassay through
+      activation of M3 muscarinic receptors that are also linked to phosphoinositide hydrolysis.
+      Surprisingly, the most abundant muscarinic receptor in the ileum is the M2 which causes a
+      specific inhibition of cyclic AMP accumulation elicited by the beta-adrenergic receptor.
+      After most of the M3 receptors are inactivated, the ileum still retains high sensitivity to
+      muscarinic agonists provided that the contractile responses are measured in the presence
+      of histamine and forskolin, which together, have no effect on contraction. Under these
+      conditions, the potencies of antagonists for blocking the contractile response are
+      consistent with those expected for an M2 response. Moreover, the muscarinic contractile
+      response measured in the presence of histamine and forskolin after inactivation of M3
+      receptors is pertussis toxin sensitive. In contrast, muscarinic contractions in the standard
+      bioassay are pertussis toxin insensitive. These results demonstrate that the M2 muscarinic
+      receptor can cause an indirect contraction of the guinea pig ileum by preventing the
+      relaxing effect of agents that increase cAMP.
+
+
+UI  - 99202683
+AB  - We have studied the membrane insertion of ProW, an Escherichia coli inner membrane
+      protein with seven transmembrane segments and a large periplasmic N-terminal tail, into
+      endoplasmic reticulum (ER)-derived dog pancreas microsomes. Strikingly, significant levels
+      of N-tail translocation is seen only when a minimum of four of the transmembrane
+      segments are present; for constructs with fewer transmembrane segments, the N-tail
+      remains mostly nontranslocated and the majority of the molecules adopt an "inverted"
+      topology where normally nontranslocated parts are translocated and vice versa. N-tail
+      translocation can also be promoted by shortening of the N-tail and by the addition of
+      positively charged residues immediately downstream of the first trasnmembrane segment.
+      We conclude that as many as four consecutive transmembrane segments may be
+      collectively involved in determining membrane protein topology in the ER and that the
+      effects of downstream sequence determinants may vary depending on the size and charge
+      of the N-tail. We also provide evidence to suggest that the ProW N-tail is translocated
+      across the ER membrane in a C-to-N-terminal direction.
+
+UI  - 20158925
+AB  - In this paper we report the development of a recombinant strain of the yeast Pichia
+      pastoris, which secretes an anti-carcinoembryonic antigen single chain Fv (scFv) antibody
+      fragment to the culture supernatant as a biologically active protein, at levels of 1.2 g l(-1).
+      The yeast scFv was purified by IMAC, with a final yield of approximately 0.440 g of 93%
+      pure scFv per liter of culture supernatant. The specific activity in ELISA of the yeast scFv
+      was almost three times higher than that of a bacterial periplasmic counterpart. These
+      results reaffirm that the yeast P. pastoris is a suitable host for high level production of
+      scFv antibody fragments with potential in vivo diagnostic and therapeutic applications.
+
+UI  - 20120123 
+AB  - The transition metal Ni is an essential cofactor for a number of enzymatic reactions in both
+      prokaryotes and eukaryotes. Molecular analyses have revealed the existence of two major
+      types of high-affinity Ni2+ transporters in bacteria. The Nik system of Escherichia coli is a
+      member of the ABC transporter family and provides Ni2+ ion for the anaerobic
+      biosynthesis of hydrogenases. The periplasmic binding protein of the transporter, NikA, is
+      likely to play a dual role. It acts as the primary binder in the uptake process and is also
+      involved in negative chemotaxis to escape Ni overload. Expression of the nik operon is
+      controlled by the Ni-responsive repressor NikR, which shows functional similarity to the
+      ferric ion uptake regulator Fur. The second type of Ni2+ transporter is represented by
+      HoxN of Ralstonia eutropha, the prototype of a novel family of transition metal permeases.
+      Members of this family have been identified in gram-negative and gram-positive bacteria
+      and recently also in a fission yeast. They transport Ni2+ with very high affinity, but differ
+      with regard to specificity. Site-directed mutagenesis experiments have identified residues
+      that are essential for transport. Besides these uptake systems, different types of metal
+      export systems, which prevent microorganisms from the toxic effects of Ni2+ at elevated
+      intracellular concentrations, have also been described.
+
+
+UI  - 20112624 
+AB  - Neuronal and glial glutamate transporters remove the excitatory neurotransmitter glutamate
+      from the synaptic cleft. The proteins belong to a large family of secondary transporters,
+      which includes bacterial glutamate transporters. The C-terminal half of the glutamate
+      transporters is well conserved and thought to contain the translocation path and the
+      binding sites for substrate and coupling ions. A serine-rich sequence motif in this part of
+      the proteins is located in a putative intracellular loop. Cysteine-scanning mutagenesis was
+      applied to this loop in the glutamate transporter GltT of Bacillus stearothermophilus. The
+      loop was found to be largely intracellular, but three consecutive positions in the
+      conserved serine-rich motif (S269, S270, and E271) are accessible from both sides of the
+      membrane. Single-cysteine mutants in the serine-rich motif were still capable of glutamate
+      transport, but modification with N-ethylmaleimide blocked the transport activity in six
+      mutants (T267C, A268C, S269C, S270C, E271C, and T272C). Two milimolars L-glutamate
+      effectively protected against the modification of the cysteines at position 269-271 from the
+      periplasmic side of the membrane but was unable to protect cysteine modification from the
+      cytoplasmic side of the membrane. The results indicate that the conserved serine-rich motif
+      in the glutamate transporter forms a reentrant loop, a structure that is found in several ion
+      channels but is unusual for transporter proteins. The reentrant loop is of crucial
+      importance for the function of the glutamate transporter.
+
+UI  - 20056236 
+AB  - C4b-binding protein (C4BP) regulates the complement system and the anticoagulant
+      activity of protein S. Protein S can bind to C4BP, resulting in a decreased cofactor activity
+      of protein S for anticoagulant activated protein C. C4BP contains several identical a-chains
+      and a single 3-chain. Each chain contains Short Consensus Repeats (SCRs). By making
+      chimeras of 13-chain SCRs fused to tissue-type plasminogen activator (tPA chimeras), we
+      found that 13-chain SCR-2 contributed to the interaction of 13-chain SCR-1 with protein S
+      (van de Poel RHL, Meijers JCM, Bouma BN. J Biol Chem 274:15144-15150, 1999). Chimeras
+      containing C4BP a-chains with SCR-1, SCR-l +2 or SCR-l +2+3 replaced by their 13-chain
+      counterpart had affinities for protein S similar to C4BP (Hardig Y, Dahlbck B. J Biol Chem
+      271:20861-20867, 1996). This was not in agreement with the finding that Beta-chain SCR-2
+      contributed to the interaction and could be explained by the possibility that alpha-chain
+      SCR-2 in the alpha-chain chimeras contributed comparable with Beta-chain SCR-2 in the
+      tPA chimeras. To investigate this we constructed a tPA chimera containing Beta-chain
+      SCR-1 and alpha-chain SCR-2 (Beta1alpha2). Binding studies showed that Beta1alpha2 had
+      a lower affinity compared with SCR-1 +2, indicating that alpha-chain SCR-2 did not
+      contribute to the interaction. The difference with the alpha-chain chimeras may be
+      explained by the fact that the alpha-chain chimeras were linked by their C-terminal
+      cysteines, resulting in multiple binding sites in a single molecule. Thereby, the effect of a
+      lower affinity of each alpha-chain chimera may have been masked. The studies performed
+      here help to clarify the apparent inconsistencies in two previous reports about the
+      contribution of the SCR-2 domain in C4BP to protein S binding. In conclusion, Beta-chain
+      SCR-2 specifically contributes to the interaction of SCR-1 with protein S.
+
+UI  - 20201377
+AB  - Clonal expansion of initiated cells is an important process in carcinogenesis. Loss of
+      functional p53 protein in initiated, preneoplastic cells might be involved in this process
+      because such a loss would favour cell growth at the expense of normal cells upon
+      exposure to genotoxic compounds. We have tested the hypothesis that p53 is not
+      expressed in preneoplastic cells in the rat liver. Hepatocytes were isolated from livers of
+      10-week-old female rats that contained foci of preneoplastic hepatocytes, generated by 6-7
+      weekly injections of diethylnitrosamine (0.15 mmol/kg body wt intraperitoneally (i.p.)),
+      starting 24 h after birth. The mixture of phenotypically normal and preneoplastic
+      hepatocytes was exposed to X-rays or N-acetoxy-acetylaminofluorene (NAAAF), both
+      causing DNA damage directly. At 24 and 48 h after exposure the cells were fixed and
+      double stained for glutathione-S-transferase 7-7 (GST7-7), to identify preneoplastic cells,
+      and p53. The percentage of p53-positive cells was much lower in GST7-7 positive
+      (GST7-7+) than in GST7-7 negative (GST7-7-) hepatocytes. Exposure of cells to X-rays or
+      NAAAF induced p53 in GST7-7- cells after 24 h, but GST7-7+ hepatocytes failed to do so.
+      These results suggest that preneoplastic cells do not express p53 or have an attenuated
+      p53 response to genotoxic treatments. This was confirmed when the cells were exposed to
+      a proteasome inhibitor, PSI, which inhibits p53 degradation: a 12-fold increase in
+      p53-positive cells was found after 48 h in GST7-7- hepatocytes, but in GST7-7+
+      hepatocytes no increase was observed. The percentage of GST7-7+ hepatocytes among
+      surviving cells was increased after exposure to NAAAF, suggesting that these are more
+      resistant to NAAAF than GST7-7- cells. This was not observed with PSI. These results
+      indicate that preneoplastic hepatocytes have a lower p53 protein content and are not able
+      to increase p53 upon inhibition of p53 breakdown or upon induction of DNA damage.
+      Therefore, loss of p53 may favour clonal expansion of preneoplastic hepatocytes in the rat
+      after administration of hepatocarcinogens or X-rays.
+
+UI  - 20205476 
+AB  - To elucidate the implication of type IV collagenases(MMP-2 and MMP-9) and their tissue
+      inhibitors (TIMP-1 and TIMP-2) for placental development, we quantified their levels in the
+      conditioned media of placental organ culture and primary culture of the trophoblast as well
+      as in the tissue extracts of placentas from different stages of gestation using specific
+      enzyme-linked immunosorbent assays. First trimester villous tissue secreted about 10 times
+      more pro-MMP-2 than pro-MMP-9, and pro-MMP-2 levels dramatically decreased in the
+      second trimester. On the other hand, pro-MMP-9 levels were more than 10 times higher
+      than those of pro-MMP-2 in the primary culture of the first trimester trophoblast,
+      indicating the involvement of stromal cells for prominent pro-MMP-2 secretion from first
+      trimester villous tissue described above. Levels of TIMPs, especially those of TIMP-2,
+      remained constant throughout gestation both in the culture media and tissue extracts.
+      Gelatin zymography revealed abundant secretion of the active form of MMP-2 as well as
+      pro-MMP-2 from first trimester villous tissue. Western immunoblot analysis confirmed the
+      presence of both TIMP-1 and TIMP-2 in placental tissue. These results suggest that active
+      secretion of MMP-2 from villous tissue in the first trimester and constant production of
+      TIMPs throughout gestation are characteristic of placental development.
+
+UI  - 20199624 
+AB  - The malting quality of two barley cultivars, Kymppi and Golden Promise, was modified to
+      better meet the requirements of the brewing process. The egl1 gene, coding for fungal
+      thermotolerant endo-1,4-beta-glucanase (EGI, cellulase), was transferred to the cultivars
+      using particle bombardment, and transgenic plants were regenerated on bialaphos
+      selection. Integration of the egl1 gene was confirmed by Southern blot hybridization. The
+      transgenic seeds were screened for the expression of the heterologous EGI. Under the
+      high-pI alpha-amylase promoter, the egl1 gene was expressed during germination. The
+      heterologous enzyme was thermotolerant at 65 degrees C for 2 h, thus being suitable for
+      mashing conditions. The amount of heterologous EGI produced by the seeds (ca. 0.025%
+      of soluble seed protein), has been shown to be sufficient to reduce wort viscosity by
+      decreasing the soluble beta-glucan content. A decrease in the soluble beta-glucan content
+      in the wort improves the filtration rate of beer.
+
+UI  - 20199403 
+AB  - PURPOSE: Membrane-type matrix metalloproteinases are recently described proteolytic
+      enzymes belonging to the matrix metalloproteinase family. Initial studies have indicated
+      that membrane-type matrix metalloproteinases are involved in tumor invasion and
+      metastasis. Membrane-type 1 matrix metalloproteinase is the first membrane-type matrix
+      metalloproteinase to be described. The aim of this study was to investigate the expression
+      of membrane-type 1 matrix metalloproteinase mRNA in colorectal cancer. METHODS:
+      Samples were collected from surgical specimens of patients with colorectal
+      adenocarcinoma and were immediately frozen in liquid nitrogen and stored at -80 degrees C
+      until processed. Both normal and cancer tissue was taken from each patient. TNM stage,
+      tumor differentiation, mucin production, and vascular invasion were assessed. Northern
+      blotting was used to quantify membrane-type 1 matrix metalloproteinase mRNA levels in
+      the samples using a membrane-type 1 matrix metalloproteinase cDNA clone. X-ray film
+      images were digitized and densitometry was used to quantify bands. All samples were
+      normalized against 18S rRNA levels. Results are expressed as the ratio of cancer to normal
+      tissue levels. Statistical analysis was performed using analysis of variance, with P < 0.05
+      accepted as the level of significance. RESULTS: A total of 32 samples were prospectively
+      analyzed. The correlation between TNM stage and increased expression of membrane-type
+      1 matrix metalloproteinase mRNA in cancer tissue over normal tissue is expressed in the
+      mean ratio of cancer to normal tissue expression for Stages I through IV, respectively: 1.4
+      +/- 0.2 (12 patients); 4.1 +/- 2.6 (8 patients); 3.4 +/- 3 (7 patients); and 4.5 +/- 5 (5 patients).
+      Stage I is significantly different from Stages II and IV (P < 0.05). These preliminary results
+      show an overall increasing trend in membrane-type 1 matrix metalloproteinase expression
+      with increasing tumor stage. However, there was no correlation between membrane-type 1
+      matrix metalloproteinase expression and mucin production, degree of tumor differentiation,
+      or vascular invasion. CONCLUSION: Preliminary results indicate that membrane-type 1
+      matrix metalloproteinase levels correlate with increasing tumor stage.
+
+UI  - 20195260
+AB  - Megalin (gp 330) is a large cell surface receptor expressed on the apical surfaces of
+      epithelial tissues, that mediates the binding and internalization of a number of structurally
+      and functionally distinct ligands. In this paper we report the first detailed structural
+      characterization of megalin-derived oligosaccharides. Using strategies based on mass
+      spectrometric analysis, we have defined the structures of the N-glycans of megalin. The
+      results reveal that megalin glycoprotein is heterogeneously glycosylated. The major
+      N-glycans identified belong to the following two classes: high mannose structures and
+      complex type structures, with complex structures being more abundant than high mannose
+      structures. The major nonreducing epitopes in the complex-type glycans are: GlcNAc,
+      Galbeta1-4GlcNAc (LacNAc), NeuAcalpha2-6Galbeta1-4GlcNAc (sialylated LacNAc),
+      GalNAcbeta1-4[NeuAcalpha2-3]Galbeta1-4GlcNAc (Sd(a)) and
+      Galalpha1-3Galbeta1-4GlcNAc. Most complex structures are characterized by the presence
+      of (alpha1,6)-core fucosylation and the presence of a bisecting GlcNAc residue.
+
+UI  - 20171998 
+AB  - Ceramide is not only a core intermediate of sphingolipids but also an important modulator
+      of many cellular events including apoptosis, cell cycle arrest, senescence, differentiation,
+      and stress responses. Its turnover may be tightly regulated. However, little is known about
+      the regulation of its metabolism because most enzymes responsible for its synthesis and
+      breakdown have yet to be cloned. Here we report the cloning and characterization of the
+      yeast gene YPC1 (YBR183w) by screening Saccharomyces cerevisiae genes whose
+      overexpression bestows resistance to fumonisin B1. We demonstrate that the yeast gene
+      YPC1 encodes an alkaline ceramidase activity responsible for the breakdown of
+      dihydroceramide and phytoceramide but not unsaturated ceramide. YPC1 ceramidase
+      activity was confirmed by in vitro studies using an Escherichia coli expression system.
+      Importantly, YPC1p also has reverse activity, catalyzing synthesis of phytoceramide from
+      palmitic acid and phytosphingosine. This ceramide synthase activity is CoA-independent
+      and is resistant to fumonisin B1, thus explaining why YPC1 was cloned as a fumonisin
+      B1-resistant gene.
+
+UI  - 20167157 
+AB  - Resistance to imipenem and meropenem was observed in 211 (16.5%) isolates of
+      Pseudomonas aeruginosa recovered in a Greek university hospital during 1996 to 1998. In
+      six isolates selected from throughout this period, high-level resistance to both
+      carbapenems (MICs >/= 128 microg/ml) was associated with production of the class B
+      beta-lactamase VIM-1. bla(VIM)-bearing isolates belonged to serotype O:12 and were
+      indistinguishable by pulsed-field gel electrophoresis.
+
+UI  - 20164721 
+AB  - Yeast Sir2 is a heterochromatin component that silences transcription at silent mating loci,
+      telomeres and the ribosomal DNA, and that also suppresses recombination in the rDNA
+      and extends replicative life span. Mutational studies indicate that lysine 16 in the
+      amino-terminal tail of histone H4 and lysines 9, 14 and 18 in H3 are critically important in
+      silencing, whereas lysines 5, 8 and 12 of H4 have more redundant functions. Lysines 9 and
+      14 of histone H3 and lysines 5, 8 and 16 of H4 are acetylated in active chromatin and
+      hypoacetylated in silenced chromatin, and overexpression of Sir2 promotes global
+      deacetylation of histones, indicating that Sir2 may be a histone deacetylase. Deacetylation
+      of lysine 16 of H4 is necessary for binding the silencing protein, Sir3. Here we show that
+      yeast and mouse Sir2 proteins are nicotinamide adenine dinucleotide (NAD)-dependent
+      histone deacetylases, which deacetylate lysines 9 and 14 of H3 and specifically lysine 16
+      of H4. Our analysis of two SIR2 mutations supports the idea that this deacetylase activity
+      accounts for silencing, recombination suppression and extension of life span in vivo.
+      These findings provide a molecular framework of NAD-dependent histone deacetylation
+      that connects metabolism, genomic silencing and ageing in yeast and, perhaps, in higher
+      eukaryotes.
+
+
+
+
+
+UI  - 20126321
+AB  - LOX-1 (lectin-like oxidized low density lipoprotein receptor-1) is a type II membrane protein
+      belonging to the C-type lectin family that can act as a cell-surface receptor for atherogenic
+      oxidized low density lipoprotein (Ox-LDL) and may play crucial roles in atherogenesis. In
+      this study, we show, by pulse-chase labeling and glycosidase digestion, that LOX-1 is
+      synthesized as a 40-kDa precursor protein with N-linked high mannose carbohydrate
+      chains (pre-LOX-1), which is subsequently further glycosylated and processed into the
+      48-kDa mature form within 40 min. Furthermore, when treated with an N-glycosylation
+      inhibitor, tunicamycin, both tumor necrosis factor-alpha-activated bovine aortic
+      endothelial cells and CHO-K1 cells stably expressing bovine LOX-1 (BLOX-1-CHO)
+      exclusively produced a 32-kDa deglycosylated form of LOX-1. Cell enzyme-linked
+      immunosorbent assay, flow cytometry, and immunofluorescence confocal microscopy
+      demonstrated that the deglycosylated form of LOX-1 is not efficiently transported to the
+      cell surface, but is retained in the endoplasmic reticulum or Golgi apparatus in tumor
+      necrosis factor-alpha-activated bovine aortic endothelial cells, but not in BLOX-1-CHO
+      cells. Radiolabeled Ox-LDL binding studies revealed that the deglycosylated form of
+      LOX-1 expressed on the cell surface of BLOX-1-CHO cells has a reduced affinity for
+      Ox-LDL binding. Taken together, N-linked glycosylation appears to play key roles in the
+      cell-surface expression and ligand binding of LOX-1.
+
+
+UI  - 20158975 
+AB  - Disulfide bonds stabilize the structure and functions of the hemagglutinin neuraminidase
+      attachment glycoprotein (HN) of Newcastle disease virus. Until this study, the disulfide
+      linkages of this HN and structurally similar attachment proteins of other members of the
+      paramyxoviridae family were undefined. To define these linkages, disulfide-linked peptides
+      were produced by peptic digestion of purified HN ectodomains of the Queensland strain of
+      Newcastle disease virus, isolated by reverse phase high performance liquid
+      chromatography, and analyzed by mass spectrometry. Analysis of peptides containing a
+      single disulfide bond revealed Cys(531)-Cys(542) and Cys(172)-Cys(196) linkages and that
+      HN ectodomains dimerize via Cys(123). Another peptide, with a chain containing Cys(186)
+      linked to a chain containing Cys(238), Cys(247), and Cys(251), was cleaved at Met(249)
+      with cyanogen bromide. Subsequent tandem mass spectrometry established
+      Cys(186)-Cys(247) and Cys(238)-Cys(251) linkages. A glycopeptide with a chain
+      containing Cys(344) linked to a chain containing Cys(455), Cys(461), and Cys(465) was
+      treated sequentially with peptide-N-glycosidase F and trypsin. Further treatment of this
+      peptide by one round of manual Edman degradation or tandem mass spectrometry
+      established Cys(344)-Cys(461) and Cys(455)-Cys(465) linkages. These data, establishing
+      the disulfide linkages of all thirteen cysteines of this protein, are consistent with published
+      predictions that the paramyxoviridae HN forms a beta-propeller structural fold.
+
+
+UI  - 20158962 
+AB  - The E. coli argE-encoded N-acetyl-L-ornithine deacetylase has been cloned, expressed,
+      and purified in high yield. The substrate specificity of the enzyme is relatively broad, with
+      a number of alpha-N-acyl-L-amino acids exhibiting activity, including both alpha-N-acetyl-
+      and alpha-N-formylmethionine that exhibit higher activity than alpha-N-acetyl-L-ornithine.
+      Sequence homolgy suggests that the enzyme is a member of the metal-dependent
+      aminoacylase family, and the purified enzyme contains a single atom of zinc per monomer.
+      The activity of this enzyme can be increased greater than 2-fold by the addition of zinc, or
+      8-fold by the addition of cobalt. This suggests that the enzyme can accommodate two
+      metal ions at the active site. The pH dependence of the kinetic parameters has been
+      determined and revealed the presence of two enzymic groups, one functioning as a general
+      base and one functioning as a general acid. Solvent kinetic isotope effects on the
+      hydrolysis of N-acetylornithine have been determined, and a linear proton inventory
+      suggests that a single proton transfer occurs in a partially rate-limiting step. A chemical
+      mechanism is proposed and compared with other mechanisms determined for other
+      members of the aminoacylase family.
+
+
+UI  - 20150401 
+AB  - The biological properties of preselected liposomal formulations of L-asparaginase
+      (L-ASNase) were studied. Pharmacokinetics studies showed that encapsulation in large
+      liposomes (sDRV; median diameter 1,249 nm) decreased the circulation time of the enzyme,
+      whereas encapsulation in small liposomes (VET: median diameter 158-180 nm) prolonged it
+      by a factor of up to 10. Liposome encapsulation in either VET or sDRV prevents the
+      induction of anti-asparaginase antibodies and mitigates the anaphylatic reaction, as no
+      death occurred in animals presensitized and challenged with liposomal formulation, in
+      contrast to animals treated with the free enzyme. The antitumor activity was also enhanced
+      by liposome encapsulation. The survival of animals bearing P1534 tumors was prolonged
+      by a factor of 2 after treatment with selected liposomal formulations as compared with free
+      enzyme.
+
+
+UI  - 96285590 
+AB  - Pseudomonas 7A glutaminase-asparaginase (PGA) catalyzes the hydrolysis of D and L
+      isomers of glutamine and asparagine. Crystals of PGA were reacted with diazo analogues
+      of glutamine (6-diazo-5-oxo-L-norleucine, DON) and asparagine (5-diazo-4-oxo-L-norvaline,
+      DONV), which are known inhibitors of the enzyme. The derivatized crystals remained
+      isomorphous to native PGA crystals. Their structures were refined to crystallographic R =
+      0.20 and R(free) = 0.24 for PGA-DON and R = 0.19 and R = 0.23 for PGA-DONV. Difference
+      Fourier electron density maps clearly showed that both DON and DONV inactivate PGA
+      through covalent inhibition. Continuous electron density connecting the inhibitor to both
+      Thr20 and Tyr34 of the flexible loop was observed providing strong evidence that Thr20 is
+      the primary catalytic nucleophile and that Tyr34 plays an important role in catalysis as
+      well. The unexpected covalent binding observed in the PGA-DON and PGA-DONV
+      complexes shows that a secondary reaction involving the formation of a Tyr34-inhibitor
+      bond takes place with concomitant inactivation of PGA. The predicted covalent linkage is
+      not seen, however, suggesting an alternative method of inhibition not yet seen for these
+      diazo analogues. These surprising results give insight as to the role of the flexible loop Thr
+      and Tyr in the catalytic mechanism.
+
+
+
+UI  - 20150389 
+AB  - To determine whether the activities of certain hydrolases (arylesterase,
+      beta-glucuronidase, cathepsin L, plasminogen activators, arginase, glutaminase,
+      asparaginase and adenosine deaminase) are changed during pregnancy, three groups of 15
+      apparently healthy women (aged 18-38 years) in their first, second and third trimester of
+      pregnancy were compared to a control group formed of 15 non-pregnant women of similar
+      ages. Enzyme and specific activities gradually increased from the first to the end of the
+      third trimester of pregnancy for arylesterase and beta-glucuronidase, these increases being
+      statistically significant (P < 0.01) in comparison to controls. However, as regards cathepsin
+      L and plasminogen activators, the greatest increase was found in the second trimester.
+      Arginase, glutaminase and asparaginase activities were very low and not distinguishable
+      from the controls. In conclusion, differences in the activities of several hydrolases have
+      been found in the sera of healthy pregnant women in comparison to controls.
+
+
+UI  - 97092093 
+AB  - Rubella virus particles, consisting of a nucleocapsid surrounded by a lipid envelope in
+      which two virus-encoded glycoproteins E1 and E2 are embedded, assemble on intracellular
+      membranes and are secreted from cells, possibly via the cellular secretory pathway. We
+      have recently demonstrated that the cytoplasmic domain of E1 (residues 469 to 481,
+      KCLYYLRGAIAPR) is required for virus release. Alteration of cysteine 470 to alanine did
+      not affect virus release, whereas mutation of leucine 471 to alanine reduced virus
+      production by 90%. In the present study, substitutions of remaining amino acids in the E1
+      cytoplasmic domain were made in order to investigate the role of each amino acid in
+      regulating rubella virus release. Generated mutants were analyzed in the context of
+      infectious full-length cDNA clone and virus-like particles using combined genetic,
+      biochemical, and electron microscopic approaches. Substitution of a single residue of
+      tyrosine 472 to alanine or tyrosine 473 to serine resulted in a block in virus release without
+      affecting protein transport and virus budding into the lumen of the Golgi complexes.
+      Infectious RNA transcripts bearing these mutations were incapable of forming plaques.
+      Mutants with substitutions at the amino-terminal region (leucine 474, arginine 475, and
+      glycine 476) in the E1 cytoplasmic domain had reduced virus release and small-plaque
+      phenotype, while mutants with substitutions at the carboxy-terminal region (alanine 477,
+      isoleucine 478, alanine 479, proline 480, and arginine 481) had only marginal defects in
+      virus release. Plaque-forming revertants could be isolated from mutants Y472A and Y473S.
+      Sequencing analysis revealed that the substituted serine residue in mutant Y473S reverted
+      to the original tyrosine residue, whereas the substituted alanine residue in mutant Y472A
+      was retained. These results indicate that the E1 cytoplasmic domain modulates virus
+      release in a sequence-dependent manner and that the tyrosine residues are critical for this
+      function. We postulate that residues YYLRG constitute a domain in the E1 tail that may
+      interact with other proteins and this interaction is involved in regulating virus release.
+
+
+
+UI  - 20173691 
+AB  - The aim of this study was to evaluate the significance of pedigree/clinical data,
+      immunohistochemistry (IHC) and microsatellite instability (MI) analyses in the reduction of
+      costs of constitutional hMLH1 and hMSH2 gene mutation diagnosis in patients with
+      colorectal cancers (CRC). Pedigree/clinical data were evaluated on a series of 168 patients
+      with CRC, including 43 consecutive sporadic late-onset and 25 consecutive, definitive or
+      suspected hereditary non-polyposis colorectal cancer (HNPCC) cases, examined by IHC
+      and MI analyses. In the latter group, 6/25 (24%) constitutional mutations were found. We
+      detected no germline mutations in the sporadic late-onset patients. The lowest costs (880
+      Euro/mutation detected) were achieved by performing pedigree/clinical data (for exclusion
+      of late-onset sporadic CRC) in conjuction with IHC only. In this model 1/6 (17%) mutations
+      was missed. Additional preselection by IHC and MI analyses before sequencing was
+      required to detect all mutations. In this approach, which seems to be the most effective in
+      the search for hMLH1 and hMSH2 gene mutation, the cost was 1767 euro/mutation
+      detected.
+
+UI  - 20205467 
+AB  - The aim of this study was to provide some insights into the molecular mechanisms
+      involved in p53-dependent apoptosis and growth arrest. Changes in the levels of p53
+      protein and proteins regulated by p53 were studied in relation to events of the cell cycle
+      and apoptosis in cervical cancer cell lines upon transfection with a p53 expressing
+      adenovirus (Ad5-p53). The post-transfection level of p53 protein in SiHa cells was found
+      to be unchanged during the 24-48 h period. In contrast, the level of p21WAF1 protein was
+      shown to increase to its highest level at 24 h, and decreased gradually up to 48 h after the
+      Ad5-p53 transfection. We further noted that the increase of p21WAF1 was accompanied
+      by G1 arrest at 24 h and the decrease of p21WAF1 was associated with apoptosis at 36-48
+      h after transfection. An anti-p21WAF1 antibody cross-reactive protein band of
+      approximately 14 kDa was observed in HeLa and C-33A cells when these cells were
+      committed to apoptosis upon Ad5-p53 transfection. In SiHa cells, phosphorylation of pRb
+      was inhibited during the early stage of Ad5-p53 transfection. This was followed by the
+      cleavage of pRb. However, Ad5-p53 transfection did not change the levels of Bax and
+      Bcl-2 proteins. Our results suggested that, Bax and Bcl-2 may not be important for the
+      apoptosis of these cells, whereas cleavage of Rb, and the decrease of p21WAF1 could
+      play important roles in p53-dependent apoptosis.
+
+
+UI  - 20205458 
+AB  - PURPOSE: To determine whether alterations in rod cGMP-gated channel function mediate
+      retinal degeneration, a transgenic approach in which the alpha subunit of the rod
+      cGMP-gated channel is reduced by the expression of an antisense RNA was used.
+      METHODS: A 890-bp fragment of the 5' mouse rod cGMP-gated channel cDNA was
+      cloned in the antisense orientation under the control of the strong bacterial
+      cytomegalovirus promoter. This antisense construct was used to generate transgenic mice
+      in which the expression of the antisense transgene was measured by reverse
+      transcription-polymerase chain reaction. Histologic, immunocytochemical, and TdT-dUTP
+      terminal nick-end labeling (TUNEL) analyses were performed on control and transgenic
+      retina sections to determine the effects of antisense expression on specific cell types.
+      RESULTS: The antisense RNA was able to inhibit the translation of the rod channel
+      protein in an in vitro assay. Three transgenic mouse lines expressing the antisense
+      construct were obtained. Molecular analyses showed that the antisense is expressed in the
+      eye of each transgenic mouse line, where it reduces rod cGMP-gated channel RNA
+      expression. Histologic and immunocytochemical data showed that transgenic retinas have
+      a reduced number of photoreceptors and bipolar cells. TUNEL staining confirmed that
+      photoreceptor and bipolar cells degenerate along an apoptotic pathway. CONCLUSIONS:
+      Impairment of rod cGMP-gated channel alpha subunit expression leads to photoreceptor
+      and bipolar cell degeneration. These transgenic mice are the first model of retinal
+      degeneration caused by an alteration in the expression of the rod cGMP-gated channel.
+      This model system can be used to test therapies designed to slow or stalled retinal
+      degenerations.
+
+
+UI  - 20174856 
+AB  - Immunoreactive cystic fibrosis transport regulator (CFTR) proteins in human sweat ducts
+      has been documented but CFTR expression in the secretory coil has remained uncertain.
+      Using monoclonal antibodies (MAbs) against epitopes in the R-domain and C-terminus,
+      we observed the following: Formalin fixation masks the CFTR epitopes but the epitopes are
+      exposed by treatment with urea and heat (antigen retrieval). Pen-Fix fixation preserves
+      CFTR epitopes. The secretory coil also expresses CFTR epitopes for the R-domain and
+      C-terminus. An MAb against C-terminus amino acids 1466-1480 coupled to keyhole limpet
+      hemocyanin (MAb WC) stained dark cells predominantly. Staining by MAbs against the
+      C-terminus was completely blocked by a C-terminus peptide. mRNA for CFTR was
+      amplified by RT-PCR in both the duct and the secretory coil. In situ hybridization for CFTR
+      mRNA after 3SR amplification indicates that mRNA is localized in the dark cells and
+      perhaps also in the clear cell cytoplasm near the secretory coil. mRNA is present in both
+      the luminal and basal duct cells. We conclude that CFTR is expressed equally well in both
+      the duct and the secretory coil, suggesting that cAMP-dependent Cl(-) channels are
+      involved in regulation of sweat secretion and duct absorption.
+
+
+UI  - 20145954
+AB  - A-type K(+) currents are key determinants of repetitive activity and synaptic integration.
+      Although several gene families have been shown to code for A-type channel subunits,
+      recent studies have suggested that Kv4 family channels are the principal contributors to
+      A-type channels in the somatodendritic membrane of mammalian brain neurons. If this
+      hypothesis is correct, there should be a strong correlation between Kv4 family mRNA and
+      A-type channel protein or aggregate channel currents. To test this hypothesis,
+      quantitative single-cell reverse transcription-PCR analysis of Kv4 family mRNA was
+      combined with voltage-clamp analysis of A-type K(+) currents in acutely isolated neurons.
+      These studies revealed that Kv4.2 mRNA abundance was linearly related to A-type K(+)
+      current amplitude in neostriatal medium spiny neurons and cholinergic interneurons, in
+      globus pallidus neurons, and in basal forebrain cholinergic neurons. In contrast, there was
+      not a significant correlation between estimates of Kv4.1 or Kv4.3 mRNA abundance and
+      A-type K(+) current amplitudes. These results argue that Kv4.2 subunits are major
+      constituents of somatodendritic A-type K(+) channels in these four types of neuron. In
+      spite of this common structural feature, there were significant differences in the voltage
+      dependence and kinetics of A-type currents in the cell types studied, suggesting that
+      other determinants may create important functional differences between A-type K(+)
+      currents.
+
+
+UI  - 20098932 
+AB  - Human epidermal growth factor receptor 2 (HER2) is overexpressed, usually as a result of
+      HER2 proto-oncogene amplification, in 20-30% of breast cancers. A HER2-positive status
+      is generally associated with more aggressive disease and a worse prognosis. Furthermore,
+      a positive HER2 status may predict the likelihood of resistance to some conventional
+      therapies, as well as probably being predictive of sensitivity to anthracycline dose
+      intensification. In addition to this prognostic/predictive value, HER2 is a target for specific
+      therapy, with anti-HER2 monoclonal antibody therapy available in the USA. This article
+      reviews the different assays used to determine HER2 status, discussing their relative
+      advantages/disadvantages and the need for their standardisation before integration
+      alongside other pathological indices into the clinical management of breast cancer.
+
+
+UI  - 20205447 
+AB  - Transforming growth factor beta (TGF-beta) is a powerful inhibitor of cell proliferation and
+      a potent inducer of differentiation. Resistance to TGF-beta action is a characteristic of
+      many malignancies and has been attributed to alterations of TGF-beta receptors as well as
+      disturbance of downstream transduction pathways. To analyse the TGF-beta response in
+      neuroblastoma, the expression of TGF-beta1 and TGF-beta type I, II and III receptor genes
+      was investigated in 61 cancer samples by means of reverse transcription polymerase chain
+      reaction. The specimens analysed belong to different stages, namely nine samples of stage
+      1, ten of stage 2, nine of stage 3 and 28 of stage 4. Moreover, five samples were of stage
+      4S, which represents a tumour form undergoing spontaneous regression. The results
+      obtained show that TGF-beta1 and TGF-beta type I and II receptor genes appear to be
+      almost equally expressed in neuroblastomas of all stages. Conversely, TGF-beta type III
+      receptor gene expression, which is required for an efficacious TGF-beta binding and
+      function, is strongly reduced exclusively in neuroblastomas of stages 3 and 4. These
+      findings were directly confirmed by immunohistochemical analyses of ten neuroblastoma
+      specimens. Our results suggest the occurrence of an altered TGF-beta response in
+      advanced neuroblastomas which might be an important mechanism for escaping growth
+      control and for developing invasiveness. Moreover, our findings allow the proposal of a
+      novel mechanism, namely down-regulation of TGF-beta type III receptor gene expression,
+      to avoid TGF-beta inhibitory activity.
+
+
+
+UI  - 20197548 
+AB  - The aim of the study was to evaluate the biological response of human Schwann cells (SC)
+      to tumor necrosis factor alpha (TNFalpha) in vitro and to the inflammatory milieu of
+      chronic inflammatory demyelinating polyradiculoneuritis (CIDP). By immunocytochemical
+      and functional assays, we found that SC expressed TNF receptors and that TNFalpha
+      promoted in SC cultures transient activation of transcription factors NFkappaB and c-jun
+      in the absence of apoptosis. In addition, TNFalpha significantly increased the proportion
+      of non-myelin-forming SC expressing the p75 nerve growth factor receptor. Such
+      phenotypic effect was dose-dependent and partially mediated by NFkappaB, as assessed
+      by functional blockage with acetylsalicylic acid. We then extended our study to a human
+      disease in which SC are exposed to TNFalpha. Increased signals for NFkappaB, but not
+      c-jun, molecules were observed by immunohistochemistry on SC nuclei in nerve biopsies
+      from patients with CIDP, as compared with controls. Irrespective of the presence of nerve
+      inflammation, SC showed no evidence of apoptosis. Taken together, our results suggested
+      that SC are potential targets of TNFalpha and that this cytokine exerted no cytotoxic
+      effects either in vivo or in vitro. Rather, TNFalpha may influence the fate of SC by
+      activating transcriptional pathways and modulating their phenotype.
+
+
+UI  - 20205904 
+AB  - The neutrophil NADPH-oxidase can be activated by protein kinase C (PKC) agonists such
+      as phorbol myristate acetate (PMA), resulting in superoxide anion release. This superoxide
+      release is independent of phosphatidylinositol 3-kinase (PI 3-kinase) because the inhibitor
+      wortmannin does not affect the response. In this study, PMA is shown to also induce a
+      wortmannin-sensitive NADPH-oxidase activation, however, not resulting in release of
+      superoxide but in intracellular production of the radical. This indicates that two pools of
+      NADPH-oxidase, one localized in the plasma membrane and the other in the granule
+      membranes, are separately regulated and the signal transduction pathways leading to
+      activation of these pools differ regarding involvement of PI 3-kinase. Activation of both
+      pools was dependent on ERK/MAPK kinase (MEK) activity and protein phosphatase 1
+      and/or 2A. As the two oxidase responses were differently affected by the inhibitor
+      Go-6850, different PKC isozymes are suggested to take part in the two signal transduction
+      pathways.
+
+
+UI  - 20195239 
+AB  - The aim of the present study was to assess the cytotoxicity of manumycin, a specific
+      inhibitor of farnesyl:protein transferase, as well as its effects on protein isoprenylation and
+      kinase-dependent signal transduction in COLO320-DM human colon adenocarcinoma
+      which harbours a wild-type K-ras gene. Immunoblot analysis of isolated cell membranes
+      and total cellular lysates of COLO320-DM cells demonstrated that manumycin
+      dose-dependently reduced p21 ras farnesylation with a 50% inhibitory concentration
+      (IC50) of 2.51 +/- 0.11 microM and 2.68 +/- 0.20 microM, respectively, while the
+      geranylgeranylation of p21 rhoA and p21rap1 was not affected. Manumycin
+      dose-dependently inhibited (IC50 = 2.40 +/- 0.67 microM) the phosphorylation of the
+      mitogen-activated protein kinase/extracellular-regulated kinase 2 (p42MAPK/ERK2), the
+      main cytoplasmic effector of p21ras, as well as COLO320-DM cell growth (IC50 = 3.58 +/-
+      0.27 microM) without affecting the biosynthesis of cholesterol. Mevalonic acid (MVA, 100
+      microM), a substrate of the isoprenoid synthesis, was unable to protect COLO320-DM
+      cells from manumycin cytotoxicity. Finally, manumycin 1-25 microM for 24-72 h induced
+      oligonucleosomal fragmentation in a dose- and time-dependent manner and MVA did not
+      protect COLO320-DM cells from undergoing DNA cleavage. The present findings indicate
+      that the inhibition of p21ras processing and signal transduction by manumycin is
+      associated with marked inhibition of cell proliferation and apoptosis in colon cancer cells
+      and the effect on cell growth does not require the presence of a mutated ras gene for
+      maximal expression of chemotherapeutic activity.
+
+
+
+UI  - 20194903
+AB  - The modulation of adenosine receptor with K+(ATP) channel blocker, glibenclamide, was
+      investigated using the radiolabeled A2A-receptor selective agonist [3H]CGS 21680.
+      Radioligand binding studies in bovine brain striatal membranes (BBM) indicated that
+      unlabeled CGS 21680 displaced the bound [3H]CGS 21680 in a concentration-dependent
+      manner with a maximum displacement being approximately 65% at 10(-4) M. In the presence
+      of 10(-5) M glibenclamide, unlabeled CGS 21680 increased the displacement of bound
+      [3H]CGS 21860 by approximately 28% at 10(-4) M. [3H]CGS 21680 bound to BBM in a
+      saturable manner to a single binding site (Kd = 10.6+/-1.71 nM; Bmax = 221.4+/-6.43
+      fmol/mg of protein). In contrast, [3H]CGS 21680 showed saturable binding to two sites in
+      the presence of 10(-5) M glibenclamide; (Kd = 1.3+/-0.22 nM; Bmax = 74.3+/-2.14 fmol/mg
+      protein; and Kd = 8.9+/-0.64 nM; Bmax = 243.2+/-5.71 fmol/mg protein), indicating
+      modulation of adenosine A2A receptors by glibenclamide. These studies suggest that the
+      K+(ATP) channel blocker, glibenclamide, modulated the adenosine A2A receptor in such a
+      manner that [3H]CGS 21680 alone recognizes a single affinity adenosine receptor, but that
+      the interactions between K+(ATP) channels and adenosine receptors.
+
+
+
+UI  - 20191133 
+AB  - We studied the relevance of adenomatous polyposis coli (APC)/beta-catenin signalling in
+      the development of breast cancer by analysing the expression of beta-catenin in 54 primary
+      breast tumours (34 ductal and 20 lobular). We showed that 13% of the tumours exhibited
+      upregulated levels of beta-catenin in the cytosol suggesting that defects in
+      APC/beta-catenin signalling components had lowered the rate of beta-catenin degradation.
+      No mutations were observed in the amino-terminal region of beta-catenin, which comprises
+      conserved serine residues important for phosphorylation-dependent degradation of the
+      protein, but the APC protein was altered in 6% of the tumours. Tyrosine phosphorylation
+      of beta-catenin was detected in only one tumour and could, therefore, not have been
+      responsible for the observed increased levels of this protein. Although 9% of the tumours
+      displayed upregulation of c-MYC protein, there was no correlation with beta-catenin
+      overexpression, suggesting that increased beta-catenin expression is not the major cause
+      of c-myc gene activation in breast cancer. It is imperative that elements that selectively
+      drive the oncogenic activity of beta-catenin in breast cancer be identified.
+
+
+UI  - 20205457
+AB  - Pyruvate dehydrogenase kinase (PDHK), a negative regulator of the mitochondrial
+      pyruvate dehydrogenase (PDH) complex (mtPDC), plays a pivotal role in controlling
+      mtPDC activity, and hence, the TCA cycle and cell respiration. This report describes the
+      cloning of a pyruvate dehydrogenase kinase cDNA (AtPDHK) from Arabidopsis thaliana
+      and focuses on the effects of antisense down-regulation of its expression on plant growth
+      and development. The deduced amino acid sequence of AtPDHK exhibits extensive
+      similarity to other plant and mammalian PDHKs, containing conserved domains typical of
+      two-component histidine protein kinases. The Escherichia coli expressed AtPDHK
+      specifically phosphorylated mammalian PDH E1 in a time-dependent manner. Antisense
+      expression of the AtPDHK cDNA led to marked elevation of mtPDC activity in transgenic
+      plants with increases ranging from 137% to 330% compared to control plants. Immunoblot
+      analyses performed with a monoclonal antibody to the E1alpha mtPDH component (the
+      subunit phosphorylated by PDHK) indicated that the increased mtPDC activity was not
+      the result of an increase in the level of PDH protein. MtPDC from transgenic plants
+      showed a reduced sensitivity to ATP-dependent inactivation compared to that observed
+      in wild-type plants. Collectively, these data suggest that the antisense partial silencing of
+      the negative regulator, PDHK, was responsible for the increased mtPDC activity observed
+      in the antisense PDHK plants. Transgenic plants with partially repressed AtPDHK also
+      displayed altered vegetative growth with reduced accumulation of vegetative tissues, early
+      flower development and shorter generation time. The potential role for AtPDHK gene
+      manipulation in crop improvement is discussed.
+
+
+UI  - 20199409 
+AB  - A large number of hematopoietic cytokines and their receptors as well as transcription
+      factors have been shown to be involved in maturation of blood cells. However, many of
+      the genes important for the differentiation of multipotent stem cells to specific cellular
+      lineages are still unknown. To identify novel genes involved in lineage selection of
+      myeloid cells, we have applied differential display analysis during commitment toward
+      granulocytes and macrophages of an IL-3-dependent multipotent progenitor cell line,
+      FDCP-mix. One regulated cDNA represented a novel gene with restricted expression
+      pattern within the hematopoietic system and was strongly up-regulated when FDCP-mix
+      cells differentiated in GM-CSF, G-CSF, and M-CSF. The expression appears to be
+      differentiation stage-specific in myeloid cells and is absent in B and T lymphocytes. Thus
+      we found expression in normal mouse bone marrow enriched for stem cells and multipotent
+      progenitors (c-kit+Sca-1+Lin- cells). When these cells were induced to differentiate toward
+      myeloid cells, MYADM was up-regulated. In contrast, during conditions known to favor
+      the development of B cell progenitors, the gene was down-regulated. The gene, termed
+      MYADM for myeloid-associated differentiation marker gene, shows 100% identity to
+      expressed sequence tags from early mouse embryonic development as well as from the
+      mouse lung and from activated mouse macrophages. The predicted 32-kDa MYADM
+      protein contains multiple hydrophobic putative transmembrane segments and has several
+      potential consensus sites for phosphorylation. In view of its expression pattern, MYADM
+      could serve as a new marker gene for hematopoietic differentiation. Although the function
+      is unknown, antisense oligonucleotides were able to inhibit colony formation of c-kit+ Lin-
+      bone marrow cells, suggesting an important role for MYADM in myeloid differentiation.
+
+
+UI  - 20195242
+AB  - The clinical development of aromatase inhibitors has been largely confined to
+      postmenopausal breast cancer patients and strongly guided by pharmacological data.
+      Comparative oestrogen suppression has been helpful in circumstances in which at least
+      one of the comparitors has caused substantially non-maximal aromatase inhibition.
+      However, the triazole inhibitors, letrozole and anastrozole, and the steroidal inhibitor,
+      exemestane, all cause >95% inhibition. Comparisons between these drugs therefore require
+      more sensitive approaches such as the direct measurement of enzyme activity by isotopic
+      means. None of these three agents has significant effects on other endocrine pathways at
+      its clinically applied doses. Pharmacokinetic analyses of the combination of tamoxifen and
+      letrozole have revealed that these drugs interact, resulting in letrozole concentrations
+      approximately 35-40% lower than when letrozole is used alone.
+
+
+UI  - 20193373 
+AB  - Neuronal Cdc2-like kinase (Nclk) is involved in the regulation of neuronal differentiation
+      and neuro-cytoskeleton dynamics. The active kinase consists of a catalytic subunit, Cdk5,
+      and a 25 kDa activator protein (p25nck5a) derived from a 35 kDa neuronal-specific protein
+      (p35nck5a). As an extension of our previous study (Qi, Z., Tang, D., Zhu, X., Fujita, D.J.,
+      Wang, J.H., 1998. Association of neurofilament proteins with neuronal Cdk5 activator. J.
+      Biol. Chem. 270, 2329-2335), which showed that neurofilament is one of the
+      p35nck5a-associated proteins, we now report the isolation of three other novel
+      p35nck5a-associated proteins using the yeast two-hybrid screen. The full-length forms of
+      these three novel proteins, designated C42, C48 and C53, have a molecular mass of 66, 24,
+      and 57 kDa, respectively. Northern analysis indicates that these novel proteins are widely
+      expressed in human tissues, including the heart, brain, skeletal muscle, placenta, lung,
+      liver, kidney and pancreas. The bacterially expressed glutathione S-transferase
+      (GST)-fusion forms of these three proteins were able to co-precipitate p35nck5a complexed
+      with Cdk5 from insect cell lysate. Among these three proteins, only C48 and C53 can be
+      phosphorylated by Nclk, suggesting that they may be the substrates of Nclk. Sequence
+      homology searches have suggested that the C48 protein is marginally related to restin
+      protein, whereas the C42 protein has homologues of unknown function in Caenorhabditis
+      elegans and Arabidopsis thaliana.
+
+
+UI  - 20184747
+AB  - The neurological system plays an important role in modulating some inflammatory skin
+      diseases. Neuro-cutaneous interactions may be mediated by the release of neuropeptides
+      such as substance P (SP) which activate immunocompetent cells in the skin by binding to
+      high affinity neurokinin receptors (NKR). Since epidermal keratinocytes produce a variety
+      of cytokines and are intimately associated with cutaneous sensory fibers, we tested the
+      ability of these cells to participate in the cutaneous neuroimmune system by the secretion
+      of potent cytokines such as interleukin 1 (IL-1) in response to released SP. RT-PCR studies
+      demonstrated that cultured PAM 212 murine keratinocytes expressed mRNA for NK-2R
+      but not NK-1R. Correspondingly, the addition of SP to these cells resulted in a rapid
+      increase in intracellular Ca2+ levels that could be specifically blocked by an NK-2R
+      antagonist. NK-2R was also shown in normal mouse epidermis by immunohistochemistry.
+      SP augmented the expression of PAM 212 keratinocyte IL-1alpha mRNA in a dose and time
+      dependent manner and this induction was inhibited by an NK-2R antagonist. Secretion of
+      bioactive IL-1alpha by the PAM 212 keratinocytes was likewise stimulated by SP in a dose
+      dependent manner. These data support the hypothesis that SP released from cutaneous
+      sensory nerves contributes to neuroimmune inflammatory responses in the skin by
+      modulating the expression and release of cytokines from epidermal keratinocytes.
+
+
+UI  - 20151082 
+AB  - Pituitary adenylate cyclase-activating polypeptide (PACAP-27) was incubated in a
+      tyrosine hydroxylase (TyrOH) assay with a homogenate preparation of the nucleus
+      accumbens of the rat. TyrOH activity was determined in vitro by measuring the production
+      of L-dopa with HPLC-ECD. Only in the presence of adenosine nucleotides (ATP,
+      App(NH)p) PACAP-27 increased TyrOH activity with a EC(50)of 100 nM. Since the
+      PACAP-27 effect on TyrOH was abolished when homogenate or pellet of the nucleus
+      accumbens were coincubated with CHAPS, the peptide effect appears to be receptor
+      mediated. TyrOH activation produced by PACAP-27 increased in the presence of the
+      phosphodiesterase inhibitor papaverine indicating the involvement of cAMP. The marked
+      effect of the non-hydrolysable adenosine nucleotide App(NH)p also supports a
+      cAMP-dependent TyrOH activation not related to ADP or an ADP-dependent mechanism.
+      This report's data suggest that PACAP-27 activates TyrOH in the rat nucleus accumbens
+      through receptor-mediated cAMP formation. The exact receptor type present in the
+      nucleus accumbens has yet not been specified. Copyright 1999 Harcourt Publishers Ltd.
+
+
+
+UI  - 20190206 
+AB  - A 27-year-old man was admitted to our hospital with the complaints of swelling of his face
+      and lower limbs. Echocardiography showed minimal pericardial effusion accompanied by
+      disordered diastolic function. Cardiac catheterization was performed to rule out
+      constrictive pericarditis. Normal pressure tracings of the right heart rule out constrictive
+      pericarditis, however, a narrowing of the inferior vena cava was observed. Venographies of
+      the inferior and superior vena cavae showed extensive thrombotic involvement of these
+      great veins. Protein C, protein S, anticardiolipin antibodies, fibrinogen, antithrombin-III,
+      activated protein C resistance, and factor V levels were in normal limits. Heterozygosity for
+      factor V Leiden mutation was detected. We conclude that factor V Leiden mutation can
+      cause extensive thrombotic involvement of major veins and should be considered in
+      idiopathic thrombosis of them.
+
+
+UI  - 20199408 
+AB  - The N-terminal propeptide of the sporamin precursor contains vacuolar targeting
+      information within the Asn-26/Pro-27/Ile-28/Arg-29/Leu-30 (NPIRL) sequence. An
+      Agrobacterium-mediated transient expression assay with tobacco BY-2 cells was employed
+      to investigate the role of each amino acid of the NPIRL region in vacuolar targeting.
+      Replacement of Asn-26, Pro-27, Ile-28 and Leu-30 with several amino acids caused
+      secretion of the mutant prosporamin. Leu was the only amino acid that could be
+      substituted for Ile-28 without affecting transport. Exchange of Leu-30 for amino acids with
+      small side-chains abolished vacuolar delivery. These results indicate that the consensus
+      composition of the NPIRL sequence is [preferably Asn]-[not acidic]-[Ile or Leu]-[any
+      amino acid]-[large and hydrophobic] and suggest that the large alkyl side-chains of Ile-28
+      and Leu-30 constitute the core of the vacuolar sorting determinant.
+
+
+
+UI  - 20199407
+AB  - Many endoplasmic reticulum (ER) proteins are known to be localized to the ER by a
+      mechanism called retrieval, which returns the molecules that are exported from the ER to
+      the Golgi apparatus back to the ER. Signals are required to be recognized by this retrieval
+      system. In the work on yeast Saccharomyces cerevisiae, we have demonstrated that
+      transmembrane domains of a subset of ER membrane proteins including Sec12p, Sec71p
+      and Sec63p contain novel ER retrieval signals. For the retrieval of these proteins, a Golgi
+      membrane protein, Rer1p, is essential (Sato et al., Mol. Biol. Cell 6 (1995) 1459-1477; Proc.
+      Natl. Acad. Sci. USA 94 (1997) 9693-9698). To address the role of Rer1p in higher
+      eukaryotes, we searched for homologues of yeast RER1 from Arabidopsis thaliana. We
+      identified three cDNAs encoding Arabidopsis counterparts of Rer1p with an amino acid
+      sequence identity of 39-46% to yeast Rer1p and named AtRER1A, AtRER1B, and
+      AtRER1C1. AtRer1Ap and AtRer1Bp are homologous to each other (85% identity),
+      whereas AtRer1C1p is less similar to AtRer1Ap and AtRer1Bp (about 50%). Genomic DNA
+      gel blot analysis indicates that there are several other AtRER1-related genes, implying that
+      Arabidopsis RER1 constitutes a large gene family. The expression of these three AtRER1
+      genes is ubiquitous in various tissues but is significantly higher in roots, floral buds and a
+      suspension culture in which secretory activity is probably high. All the three AtRER1
+      cDNAs complement the yeast rer1 mutant and remedy the defect of Sec12p mislocalization.
+      However, the degree of complementation differs among the three with that of AtRER1C1
+      being the lowest, again suggesting a divergent role of AtRer1C1p.
+
+
+
+UI  - 20194809
+AB  - An immediate-early, transiently activated wound-responsive gene was identified in
+      tobacco by fluorescent differential display screening. The full-length cDNA encodes a
+      polypeptide of 356 amino acids with a relative molecular mass of 39,082 Da. The deduced
+      amino acid sequence shows two characteristic features; a leucine-zipper motif found in the
+      more N-terminal region and a WRKY domain containing a zinc-finger motif located in the
+      central region. The gene was designated as wizz (wound-induced leucine zipper zinc
+      finger). Northern analysis showed that upon wounding wizz transcripts were locally and
+      systemically accumulated within 10 min, reached a maximum level by 30 min, and decreased
+      thereafter to the basal level. Analyses of a WIZZ-GFP fusion protein clearly indicated that
+      WIZZ is a nuclear factor. WIZZ specifically binds to sequences containing two TTGAC
+      core motifs that are separated by a spacer of appropriate length. The binding activity was
+      dependent on bivalent cations, most probably zinc. In transient reporter assays, however,
+      WIZZ did not show transactivation activity in tobacco suspension cells, suggesting that it
+      functions together with other components. The results indicate that WIZZ is a new
+      transcription factor which participates in early stages of the wound response.
+
+
+
+UI  - 20168809
+AB  - The self-incompatibility possessed by Brassica is an intraspecific reproductive barrier by
+      which the stigma rejects self-pollen but accepts non-self-pollen for fertilization. The
+      molecular/biochemical bases of recognition and rejection have been intensively studied.
+      Self-incompatibility in Brassica is sporophytically controlled by the polymorphic S locus.
+      Two tightly linked polymorphic genes at the S locus, S receptor kinase gene (SRK) and S
+      locus glycoprotein gene (SLG), are specifically expressed in the papillar cells of the stigma,
+      and analyses of self-compatible lines of Brassica have suggested that together they
+      control stigma function in self-incompatibility interactions. Here we show, by transforming
+      self-incompatible plants of Brassica rapa with an SRK28 and an SLG28 transgene
+      separately, that expression of SRK28 alone, but not SLG28 alone, conferred the ability to
+      reject self (S28)-pollen on the transgenic plants. We also show that the ability of SRK28 to
+      reject S28 pollen was enhanced by SLG28. We conclude that SRK alone determines S
+      haplotype specificity of the stigma, and that SLG acts to promote a full manifestation of the
+      self-incompatibility response.
+
+
+
+
+UI  - 20171995 
+AB  - Several studies suggest, that the snail Lymnaea stagnalis contains glycoproteins whose
+      oligosaccharide side chains have structural features not commonly found in mammalian
+      glycoproteins. In this study, prostate glands of L. stagnalis were incubated in media
+      containing either [(3)H]-mannose, [(3)H]-glucosamine, or [(3)H]-galactose, and the
+      metabolically radiolabeled protein-bound oligosaccharides were analyzed. The newly
+      synthesized diantennary-like complex-type asparagine-linked chains contained a
+      considerable amount of glucose, next to mannose, GlcNAc, fucose, galactose, and traces
+      of GalNAc. Since glucose has not been found before as a constituent of diantennary
+      N-linked glycans as far as we know, we assayed the prostate gland of L. stagnalis for a
+      potential glucosyltransferase activity involved in the biosynthesis of such structures. We
+      report here, that the prostate gland of L. stagnalis contains a beta1-->4-glucosyltransferase
+      activity that transfers glucose from UDP-glucose to acceptor substrates carrying a terminal
+      N-acetylglucosamine. The enzyme prefers substrates carrying a terminal GlcNAc that is
+      beta6 linked to a Gal or a GalNAc, structures occurring in O-linked glycans, or a GlcNAc
+      that is beta2 linked to mannose, as is present in N-linked glycans. Based on combined
+      structural and enzymatic data, we propose that the novel beta1-->4-gluco-syltransferase
+      present in the prostate gland may be involved in the biosynthesis of Glcbeta1-->4GlcNAc
+      units in complex-type glycans, in particular in N-linked diantennary glycans.
+
+
+
+UI  - 20167701 
+AB  - An anthracenone analogue of abscisic acid (ABA) was synthesized as a potential
+      photoaffinity reagent and tested for biological activity. Reaction between
+      10,10'-dimethoxy-9-anthrone with two equivalents of the lithiated dianion of
+      cis-3-methylpent-2-en-4-yn-1-ol afforded an acetylenic alcohol key intermediate.
+      Subsequent reduction of the triple bond, functional group manipulation of the side chain
+      alcohol and deprotection of the dimethoxy protected anthrone provided anthracenone
+      ABA analogue 7 as a potential photoaffinity reagent for ABA-binding proteins. The effect
+      of natural ABA and the potential photoaffinity anthracenone ABA 7 on corn cell growth
+      was determined at various concentrations. The results show that anthracenone ABA 7 is
+      perceived as ABA-like, although producing less inhibition than ABA itself. For example, 7
+      at 33 microM produces approximately the same inhibition as ABA at 10 microM.
+
+
+
+
+UI  - 20171695 
+AB  - This paper describes in kindled rats an increment in wheat germ agglutinin-horseradish
+      peroxidase labeling in anterior commissure, bed nuclei of stria terminalis and amygdala.
+      Three groups of animals were analyzed: control, sham-operated and kindled animals with
+      ten convulsive generalized seizures. Results show that kindled animals have an increase in
+      fiber labeling in anterior commissure and in the bed nuclei of stria terminalis, as well as a
+      greater number of labeled neurons in amygdala. This label enhancement is related to the
+      hyperexcitability of neurons produced by epilepsy, and could be associated to the
+      propagation and formation of secondary foci and related plastic changes occurring during
+      kindling.
+
+
+
+
+UI  - 20195237
+AB  - Serum amyloid A (SAA) is a 12-kDa protein secreted in large amounts by liver cells during
+      microbial infections or inflammatory diseases. We have recently reported that SAA
+      induces chemotaxis of polymorphonuclear cells (PMN), monocytes, and T lymphocytes
+      and stimulates their adhesion to endothelial monolayers. In this study, we investigated
+      whether SAA regulates PMN antimicrobial activities. We found that recombinant SAA
+      (rSAA), at concentrations comparable to serum levels attained during an acute phase
+      response, is a potent activator of PMN. Stimulation of PMN by rSAA results in a rapid and
+      transient increase of cytosolic calcium concentration and up-regulation of cell-surface
+      expression of antigens involved in adhesion and microbial recognition such as CD11c and
+      CD16. In addition, stimulation of PMN with rSAA increases secretion of lactoferrin, an
+      antimicrobial protein that is contained in specific granules of PMN and enhances PMN
+      phagocytic activity against heat-killed Candida albicans. Finally, activation of PMN with
+      rSAA enhances their anti-Candida activity within 30 min of stimulation. These results
+      suggest that SAA is involved in up-regulating PMN antimicrobial activities and that high
+      circulating concentrations of SAA as seen in the acute phase response may constitute a
+      potential host defense mechanism against fungal infections.
+
+
+
+UI  - 20185067 
+AB  - Most mitochondrial proteins are synthesized in the cytosol as precursor proteins with a
+      cleavable N-terminal presequence and are imported into mitochondria. We report here the
+      NMR structure of a general import receptor, rat Tom20, in a complex with a presequence
+      peptide derived from rat aldehyde dehydrogenase. The cytosolic domain of Tom20 forms
+      an all alpha-helical structure with a groove to accommodate the presequence peptide. The
+      bound presequence forms an amphiphilic helical structure with hydrophobic leucines
+      aligned on one side to interact with a hydrophobic patch in the Tom20 groove. Although
+      the positive charges of the presequence are essential for import ability, presequence
+      binding to Tom20 is mediated mainly by hydrophobic rather than ionic interactions.
+
+
+
+
+
+UI  - 20191161 
+AB  - The embryologic histogenesis of cartilage is not well characterized. While cranial cartilage
+      is believed to be derived from pluripotential precursor cells of the neural crest,
+      chondrocytes found elsewhere in the body are thought to be derived from mesoderm. As
+      such, soft tissue tumors with cartilaginous differentiation may be related to neural crest or
+      mesoderm. Peripherin is an intermediate filament encoded on chromosome 12, involved in
+      growth and development of the peripheral nervous system. Peripherin is apparently
+      expressed exclusively in cells derived from the neural crest and neural tube. A group of six
+      soft tissue tumor types was selected because they are either of controversial
+      differentiation or cytogenetically related to chromosome 12. A total of 41 cases was
+      evaluated with antibodies against the intermediate filament peripherin. A panel of neural
+      and neuroendocrine differentiation markers was used in selected cases. Three of five
+      extraskeletal myxoid chondrosarcomas showed strong cytoplasmic reactivity with
+      anti-peripherin. No peripherin expression was noted in any of eleven epithelioid sarcomas,
+      eight liposarcomas, seven conventional chondrosarcomas, four neurothekeomas, three
+      alveolar soft part sarcomas, or three clear cell sarcomas. The finding of peripherin
+      expression in some extraskeletal myxoid chondrosarcomas may suggest the ability of some
+      tumors to demonstrate both neural and chondroid differentiation.
+
+
+
+UI  - 20194838 
+AB  - The transport and localization of env-proteins of ts1 virus (a paralytogenic
+      temperature-sensitive mutant of Moloney murine leukemia virus) in infected cells of the TB
+      cell line have been studied at the ultrastructural level. It was found that the envelope
+      precursor polyprotein gPr80-env of ts1 was inefficiently transported out of the
+      endoplasmic reticulum at the restrictive temperature. It was speculated that inefficient
+      transport correlates with inefficient processing of gPr80env into gp70 and Prp15E and
+      leads to paralytic disease.
+
+
+
+UI  - 20044033
+AB  - The nematode cuticle is a complex extracellular structure which is secreted by an
+      underlying syncytium of hypodermal cells. Recent studies have demonstrated that the
+      cuticle of parasitic nematodes is a dynamic structure with important absorptive, secretory,
+      and enzymatic activities. In addition, the cuticle serves as a protective barrier against the
+      host. A 48-h third stage larval Dirofilaria immitis cDNA library was immunoscreened with
+      sera raised against larval cuticles. One clone, L3MC4 that reacted strongly with the
+      anti-cuticle antisera was sequenced. The composite cDNA sequence comprises 2073 bp
+      coding for a full-length protein of 590 amino acids. GenBank analysis showed that DiAsp
+      had significant similarity to a Caenorhabditis elegans gene-product (54% identity) and to
+      other asparaginases at the amino acid level. Escherichia coli-expressed recombinant DiAsp
+      (rDiAsp) catalysed the hydrolysis of asparagine to aspartate and ammonia. Antibodies
+      raised against D. immitis larval cuticles reacted with rDiAsp in immunoblots. This is the
+      first report of identification of a cDNA clone encoding an asparaginase enzyme from a
+      parasitic nematode.
+
+
+
+
+UI  - 20126051
+AB  - The Wilms' tumor gene WT1 is expressed at high levels not only in acute myelocytic and
+      lymphocytic leukemia and in chronic myelocytic leukemia but also in various types of solid
+      tumors including lung cancers. To determine whether the WT1 protein can serve as a
+      target Ag for tumor-specific immunity, three 9-mer WT1 peptides (Db126, Db221, and
+      Db235), which contain H-2Db-binding anchor motifs and have a comparatively higher
+      binding affinity for H-2Db molecules, were tested in mice (C57BL/6, H-2Db) for in vivo
+      induction of CTLs directed against these WT1 peptides. Only one peptide, Db126, with the
+      highest binding affinity for H-2Db molecules induced vigorous CTL responses. The CTLs
+      specifically lysed not only Db126-pulsed target cells dependently upon Db126
+      concentrations but also WT1-expressing tumor cells in an H-2Db-restricted manner. The
+      sensitizing activity to the Db126-specific CTLs was recovered from the cell extract of
+      WT1-expressing tumor cells targeted by the CTLs in the same retention time as that
+      needed for the synthetic Db126 peptide in RP-HPLC, indicating that the Db126-specific
+      CTLs recognize the Db126 peptide to kill WT1-expressing target cells. Furthermore, mice
+      immunized with the Db126 peptide rejected challenges by WT1-expressing tumor cells and
+      survived for a long time with no signs of autoaggression by the CTLs. Thus, the WT1
+      protein was identified as a novel tumor Ag. Immunotherapy targeting the WT1 protein
+      should find clinical application for various types of human cancers.
+
+
+
+UI  - 20124006 
+AB  - We have determined the solution NMR structure of the ribosomal protein L36 from
+      Thermus thermophilus. L36 is the smallest protein in the large subunit of the prokaryotic
+      ribosome. The sequence contains three completely conserved cysteine residues and one
+      conserved histidine residue in a C-X(2)-C-X(12)-C-X(4)-H motif. Extended X-ray absorption
+      fine structure spectroscopy was used to confirm that a purified L36 sample contains an
+      equimolar amount of zinc. The structure of L36 was determined using simulated annealing
+      based on NOE distance restraints, dihedral angle restraints and hydrogen bond distance
+      restraints derived from NMR spectra of (15)N-labeled and non-labeled L36 samples at pH 7
+      and 12 degrees C, and by imposing tetrahedral zinc ion coordination geometry. The L36
+      fold is characterized by a triple-stranded antiparallel beta-sheet with the zinc-binding site at
+      one end. The structure of the zinc site is well-determined and shows that the three cysteine
+      sulphur atoms are supported by hydrogen bonds to backbone amide protons. The
+      conserved histidine residue is located in a short 3(10)-helix and coordinates zinc by the
+      N(delta1) atom. The electrostatic surface potential and location of conserved Arg, Lys and
+      His side-chains suggest a large continuous L36-rRNA interaction interface. The folding
+      topology as well as position and conformation of many conserved side-chains in L36 are
+      very similar to those of zinc-ribbon domains found in the archaeal transcription factor
+      TFIIB N terminus and the eukaryal transcription elongation factor hTFIIS C terminus.
+      Given the relative antiquity of the ribosome it is possible that L36 reflects the parent of
+      transcription-related zinc ribbons. Copyright 2000 Academic Press.
+
+
+
+
+UI  - 20190101 
+AB  - We previously showed that oncoprotein MDM2 has ubiquitin ligase activity toward tumor
+      suppressor p53. In that paper, we showed very weak homology in the carboxyl terminal
+      portion between MDM2 and E6AP (HECT domain). We mutated the cysteine residue
+      (C464) corresponding to the residue essential for the ubiquitin ligase activity of E6AP and
+      this mutation diminished the ligase activity of MDM2. The cysteine residue described
+      above is also one of the cysteine residues that form the RING finger domain of MDM2. We
+      tried to find out whether the diminishing of the activity by the mutation is attributable to
+      the disruption of the RING finger domain or not. When the ring finger domain of MDM2
+      was deleted, the truncation mutant did not have the ubiquitin ligase activity. When we
+      mutated the seven cysteine residues of RING finger domain of MDM2 in the carboxyl
+      terminus, the disruption of each residue in the RING finger completely diminished the
+      ubiquitin ligase activity of MDM2 toward MDM2 itself and toward tumor suppressor p53.
+      These data indicate that the RING finger domain in MDM2 is essential for its ubiquitin
+      ligase activity toward p53 and itself.
+
+
+
+UI  - 20184720 
+AB  - JAB1 was originally described as a transcriptional coactivator of c-Jun and Jun D. Recent
+      data suggests that JAB1 is a component of a large protein complex, the JAB1 signalosome
+      in mammals and the COP9 complex in plants. The JAB1 signalosome is implicated in the
+      phosphorylation of selected transcription factors, while the COP9 complex is involved in
+      repression of photomorphogenesis in Arabidopsis. In this study, we describe the partial
+      characterization of mouse JAB1 (mJAB1). The murine JAB1 protein is encoded by a gene
+      located on mouse chromosome 1. mJAB1 mRNA is abundantly expressed in a variety of
+      adult tissues as well as in mouse embryos. The JAB1 protein was readily detectable in
+      many cell types and localized to both the nucleus and cytoplasm. Endogenous JAB1
+      protein is relatively stable and its degradation is not perturbed by blocking 26S
+      proteasome activity, suggesting that this protein is not degraded by the
+      ubiquitin-mediated proteolytic pathway.
+
+
+
+
+UI  - 20167151
+AB  - We have identified cDNAs encoding three isoforms (a1, a2, and a3) of the 100-kDa a
+      subunit of the mouse vacuolar proton-translocating ATPase (V-ATPase). The predicted
+      protein sequences of the three isoforms are 838, 856, and 834 amino acids, respectively,
+      and they display approximately 50% identity between isoforms. Northern blot analysis
+      demonstrated that all three isoforms are expressed in most tissues examined. However, the
+      a1 isoform is expressed most heavily in brain and heart, a2 in liver and kidney, and a3 in
+      liver, lung, heart, brain, spleen, and kidney. We also identified multiple alternatively spliced
+      variants for each isoform. Reverse transcriptase-mediated polymerase chain reaction
+      revealed that one splicing variant of the a1 isoform (a1-I) was expressed only in brain,
+      whereas two other variants (a1-II and a1-III) were expressed in tissues other than brain.
+      These alternatively spliced forms differ in the presence or absence of 6-7 amino acid
+      residues near the amino and carboxyl termini of the proteins encoded. The a3 isoform is
+      also encoded by three alternatively spliced variants, two of which are predicted to encode
+      a protein that is truncated near the border of the amino- and carboxyl-terminal domains of
+      the a subunit and therefore lacks the integral transmembrane-spanning helices thought to
+      participate in proton translocation. Expression of each isoform (with the exception of a1-I)
+      was detectable at all developmental stages investigated, with a1-I absent only in day 7
+      embryos. The results obtained suggest that isoforms of the 100-kDa a subunit may
+      contribute to tissue-specific functions of the V-ATPase.
+
+
+
+
+UI  - 97150874
+AB  - Eukaryotic initiation factor 3 (eIF3) is a large multisubunit complex that stabilizes the
+      ternary complex, eIF2 x GTP x tRNA(Met)i and promotes mRNA binding to the 40 S
+      ribosomal subunit. eIF3 also functions as a ribosome subunit anti-association factor. The
+      molecular mechanisms by which eIF3 exerts these functions are poorly understood. We
+      describe here the cloning of the cDNA encoding the human homologue of the yeast eIF3
+      subunit Prt1. The human PRT1 cDNA encodes a protein of predicted molecular mass of
+      98.9 kDa that migrates at 116 kDa on SDS-polyacrylamide gels. Human and yeast Prt1 share
+      31% identity and 50% similarity at the amino acid level. The homology is distributed
+      throughout the entire protein, except for the amino terminus, and is particularly high in the
+      central portion of the protein, which contains a putative RNA recognition motif. hPrt1 is
+      recognized by an antibody raised against eIF3, and an affinity-purified antibody to
+      recombinant hPrt1 recognizes a protein migrating at 116 kDa in a purified eIF3 preparation.
+      Far Western analysis shows that hPrt1 interacts directly with the p170 subunit of eIF3.
+      Mapping studies identify the RNA recognition motif as the region required for association
+      with p170. Taken together, these experiments demonstrate that hPrt1 is a component of
+      eIF3. Our data, combined with those of Hershey and co-workers, suggest that mammalian
+      eIF3 is composed of at least 10 subunits: p170, p116 (hPrt1), p110, p66, p48, p47, p44, p40,
+      p36, and p35.
+
+
+
+
+UI  - 97294720
+AB  - CD45 is an abundant, highly glycosylated transmembrane protein-tyrosine phosphatase
+      expressed on hematopoietic cells. Herein we demonstrate that two proteins of 116 kDa and
+      80 kDa copurify with CD45 from mouse T cells. Microsequence analysis of the 116-kDa
+      protein revealed high similarity to an incomplete human open reading frame that has been
+      suggested to correspond to the catalytic alpha-subunit of glucosidase II. We determined
+      the nucleotide sequence of the mouse cDNA and observed that it encodes a protein
+      product nearly identical to its human homologue and shares an active site consensus
+      sequence with Family 31 glucosidases. Amino acid sequencing of the 80-kDa protein,
+      followed by molecular cloning, revealed high homology to human and bovine cDNAs
+      postulated to encode the beta-subunit of glucosidase II. Antisera developed to the mouse
+      beta-subunit allowed us to demonstrate that the interaction between CD45 and
+      glucosidase II can be reconstituted in vitro in an endoglycosidase H-sensitive manner.
+      The strong interaction between glucosidase II and CD45 may provide a paradigm for
+      investigating novel aspects of the biology of these proteins.
+
+
+
+UI  - 20193700 
+AB  - Activation-induced cell death (AICD) is a mechanism of peripheral T cell tolerance that
+      depends upon an interaction between Fas and Fas ligand (FasL). Although c-Jun
+      NH2-terminal kinase (JNK) and p38 mitogen-activated protein kinase (MAPK) may be
+      involved in apoptosis in various cell types, the mode of regulation of FasL expression
+      during AICD in T cells by these two MAPKs is incompletely understood. To investigate
+      the regulatory roles of these two MAPKs, we analyzed the kinetics of TCR-induced p38
+      MAPK and JNK activity and their regulation of FasL expression and AICD. We report that
+      both JNK and p38 MAPK regulate AICD in T cells. Our data suggest a novel model of T
+      cell AICD in which p38 MAPK acts early to initiate FasL expression and the Fas-mediated
+      activation of caspases. Subsequently, caspases stimulate JNK to further upregulate FasL
+      expression. Thus, p38 MAPK and downstream JNK converge to regulate FasL expression
+      at different times after T cell receptor stimulation to elicit maximum AICD.
+
+
+
+UI  - 20184737
+AB  - In an effort to identify gene products involved in transcriptional regulation in
+      apicomplexan parasites, the Toxoplasma gondii expressed sequence tag (EST) database
+      was examined for sequences containing similarity to known transcriptional components.
+      One EST (dbEST ID #466792) exhibited strong similarity to yeast GCN5 and other histone
+      acetyltransferases (HATs). Primers were designed based on the EST sequence and used to
+      amplify an 850 bp fragment (containing an intron) from T. gondii genomic DNA which was
+      used to identify four cDNA clones from a tachyzoite cDNA library. The complete open
+      reading frame (ORF) of 3.5 kb was elucidated using 5' RACE and genomic sequence. The
+      deduced amino acid sequence of the coding region shows that the C-terminal domain
+      possesses unequivocal similarity to GCN5 family members. However, unlike other lower
+      eukaryotes, T. gondii GCN5 has an extended N-terminal domain similar in length, but not in
+      composition, to metazoan HAT proteins. These features distinguish T. gondii GCN5 as a
+      novel member of the GCN5 family. A portion of the cDNA sequence was used as a probe
+      to isolate three overlapping clones from a T. gondii genomic library, generating a
+      approximately 7.5 kb map of the GCN5 locus which contains seven exons separated by six
+      introns. Southern analysis verifies the predicted map and suggests that a similar locus may
+      be present elsewhere in the genome.
+
+
+
+UI  - 20180069 
+AB  - Notch proteins are transmembrane receptors that mediate intercell communication and
+      direct individual cell fate decisions. The activated intracellular form of Notch, NotchIC,
+      translocates to the nucleus, where it targets the DNA binding protein CBF1. CBF1
+      mediates transcriptional repression through the recruitment of an SMRT-histone
+      deacetylase-containing corepressor complex. We have examined the mechanism whereby
+      NotchIC overcomes CBF1-mediated transcriptional repression. We identified SKIP
+      (Ski-interacting protein) as a CBF1 binding protein in a yeast two-hybrid screen. Both
+      CBF1 and SKIP are highly conserved evolutionarily, and the SKIP-CBF1 interaction is also
+      conserved in assays using the Caenorhabditis elegans and Drosophila melanogaster SKIP
+      homologs. Protein-protein interaction assays demonstrated interaction between SKIP and
+      the corepressor SMRT. More surprisingly, SKIP also interacted with NotchIC. The SMRT
+      and NotchIC interactions were mutually exclusive. In competition binding experiments
+      SMRT displaced NotchIC from CBF1 and from SKIP. Contact with SKIP is required for
+      biological activity of NotchIC. A mutation in the fourth ankyrin repeat that abolished
+      Notch signal transduction did not affect interaction with CBF1 but abolished interaction
+      with SKIP. Further, NotchIC was unable to block muscle cell differentiation in myoblasts
+      expressing antisense SKIP. The results suggest a model in which NotchIC activates
+      responsive promoters by competing with the SMRT-corepressor complex for contacts on
+      both CBF1 and SKIP.
+
+
+
+UI  - 20184753
+AB  - Ermap (erythroid membrane-associated protein), a gene coding for a novel transmembrane
+      protein produced exclusively in erythroid cells, is described. It is mapped to murine
+      Chromosome 4, 57 cM distal to the centromere. The initial cDNA clone was isolated from a
+      day 9 murine embryonic erythroid cell cDNA library. The predicted peptide sequence
+      suggests that ERMAP is a transmembrane protein with two extracellular immunoglobulin
+      folds, as well as a highly conserved B30.2 domain and several phosphorylation consensus
+      sequences in the cytoplasmic region. ERMAP shares a high homology throughout the
+      entire peptide with butyrophilin, a glycoprotein essential for milk lipid droplet formation
+      and release. A GFP-ERMAP fusion protein was localized to the plasma membrane and
+      cytoplasmic vesicles in transiently transfected 293T cells. Northern blot analysis and
+      in-situ hybridization demonstrated that Ermap expression was restricted to fetal and adult
+      erythroid tissues. ERMAP is likely a novel adhesion/receptor molecule specific for
+      erythroid cells.
+
+
+
+UI  - 20199367 
+AB  - The Schistosoma mansoni gene coding for a 14-kDa fatty acid-binding protein was
+      amplified by PCR and subcloned into the prokaryotic expression vector pMAL-c2.
+      Escherichia coli DH5alpha was transformed with the pMAL-Sm14 construct, and gene
+      expression was induced hr isopropyl-beta-D-thiogalactopyranoside. The resulting
+      recombinant (r) fusion protein was purified by affinity chromatography and confirmed by
+      immunoblot analysis using antimaltose-binding protein or anti-Sm14 antibodies.
+      Additionally, an antibody isotype profile was determined in sera of schistosomiasis
+      patients to rSm14 or soluble adult worm antigen preparation. IgG1 and IgG3 subclass
+      antibodies to rSm14 were predominant in sera of all patients studied whereas low levels of
+      IgM, IgA or IgE were measured. Expression of a S. mansoni gene encoding a vaccine
+      candidate is an important step to better study human immune responses to defined
+      antigens.
+

@@ -1,0 +1,570 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./Project_Plan_files/filelist.xml">
+<link rel=Edit-Time-Data href="./Project_Plan_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Class: CSE151</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Bashir</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Bashir</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>268</o:TotalTime>
+  <o:Created>2000-06-12T19:34:00Z</o:Created>
+  <o:LastSaved>2000-06-12T19:34:00Z</o:LastSaved>
+  <o:Pages>7</o:Pages>
+  <o:Words>1389</o:Words>
+  <o:Characters>7922</o:Characters>
+  <o:Lines>66</o:Lines>
+  <o:Paragraphs>15</o:Paragraphs>
+  <o:CharactersWithSpaces>9728</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:18.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:#339966;
+	mso-font-kerning:0pt;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal><b>Class:</b> CSE151</p>
+
+<p class=MsoNormal><b>Date: </b>05-31-2000</p>
+
+<h2>Project#2</h2>
+
+<h2>Group Members: Bashir Eghbali, John White, Denise Kashirs</h2>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<h1>Project Plan</h1>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='color:fuchsia'>Introduction:<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>Our task was to process 100 medical abstracts and understand
+what they say, output facts derived from grammatical parsing and to also if
+possible output facts derived from other facts. We first had to try to
+understand the sentence structure and parse the sentence into a Noun Clause and
+Verb Clause, where the Noun Clause consists of:</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>[Adj* Noun* abbre prop Verb*]*<span style="mso-spacerun:
+yes">   </span></p>
+
+<p class=MsoNormal>where:<span style="mso-spacerun: yes">   </span>abbre=
+abbreviation<span style="mso-spacerun: yes">  </span>prop=proposition,
+conjunction, disjunction, etc… and base case is: Adj=abbre = prop=Verb <span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>Î</span></span> <b><span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>e</span></span></b></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>and the Verb Clause which consists of:</p>
+
+<p class=MsoNormal>[Adv*Verb prop Noun*]*</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>Basically, we parse the sentence into NP, VP tokens and then
+using a lexicon (Wordnet) we distinguish the main verb, object and subject and
+create a database of these. Following is an abstract representation of a
+database entry.</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
+ o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
+ stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1027" type="#_x0000_t75" style='width:348.75pt;
+ height:138pt'>
+ <v:imagedata src="./Project_Plan_files/image001.jpg" o:title="DBrepresentation"/>
+</v:shape><![endif]--><![if !vml]><img width=465 height=184
+src="./Project_Plan_files/image002.jpg" v:shapes="_x0000_i1027"><![endif]></p>
+
+<p class=MsoNormal>Indicating:</p>
+
+<p class=MsoNormal>ProteinX causes disease Y</p>
+
+<p class=MsoNormal>TGF Beta-1 causes cancer</p>
+
+<p class=MsoNormal>TGF Beta-1 causes increase PH level</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>This approach helps us categorize our causal relationships
+into database entries in a graph representation where the following holds:</p>
+
+<p class=MsoNormal>1)Noun<sup>*1</sup> -&gt;(relationship<sub>*</sub>)-&gt;Noun<sup>*2</sup><span
+style="mso-spacerun: yes">            </span>where <sup>*1</sup><span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>¹</span></span> 0</p>
+
+<p class=MsoNormal>2)Noun<sup>*1</sup> -&gt;(relationship<sub>*</sub>)-&gt;<b><span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>e</span></span></b> <span
+style='mso-tab-count:1'> </span><span style="mso-spacerun:
+yes">          </span>where <b><span style='font-family:Symbol;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>e</span></span> </b>is the null string/object;</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>The above statements show that any set of nouns can be
+connected to any other set by relationship or they just have relationship by
+themselves. </p>
+
+<p class=MsoNormal>Example of 1) Boy hits ball</p>
+
+<p class=MsoNormal>Example of 2) ProteinX folds</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>We have our ontology database on a remote site where we
+connect to it and try to create an array of all predicates available in the
+database. We then choose some arbitrary verbs and try to find all similar
+(semantically) predicates and categorize them in this finite set of causal
+relationships. We then use prepositional logic and first order predicate logic
+to derive new facts.<span style="mso-spacerun: yes">  </span></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='color:blue'>Project Implementation Diagram:<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1029" type="#_x0000_t75"
+ style='width:431.25pt;height:297.75pt'>
+ <v:imagedata src="./Project_Plan_files/image003.jpg" o:title="ProjectDiagram"/>
+</v:shape><![endif]--><![if !vml]><img width=575 height=397
+src="./Project_Plan_files/image004.jpg" v:shapes="_x0000_i1029"><![endif]></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><span style='color:red'>Note: </span>Square boxes indicate
+databases and ovals indicate programs.</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><b><span style='color:blue'>Description of Parts:<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><b>Abstracts:</b> The abstracts that we are extracting
+information from (currently 100).</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><b>Chart Parser:</b> It replaces compound nouns with their
+abbreviation and if an abbreviation is not specified, it creates an auxiliary
+abbreviation. It then does the parsing of the sentence to create a tree of the
+sentence structure.</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><b>Mental Representation: </b>Given the sentence structure
+from Chart Parser, it derives the important parts of the sentence out and
+creates databases of relations.</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><b>Fact Derivation:</b> Given the Ontology database it
+outputs 1) gammatical facts 2) derived facts</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><b>Lexicon: </b>The dictionaries and thesauri in our case,
+WordNet, that provides word definitions, synonyms, antonyms, etc…</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><b>Ontologies Database: </b>A database of ontology, relation
+of noun(s) by verb(s). Expands as new sentence information comes in.<b> <o:p></o:p></b></p>
+
+<p class=MsoNormal><b><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></b></p>
+
+<p class=MsoNormal><b><span style='color:blue'>Implementations Notes:<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes"> </span></p>
+
+<p class=MsoNormal><b><span style='color:#FF6600'>Chart Parser:<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style="mso-spacerun: yes"> </span><o:p></o:p></b></p>
+
+<p class=MsoNormal style='text-indent:.5in'><b>Task: </b>To read and parse
+human text and mark words into XML tags.</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-indent:.5in'><b>Implementation:</b> The chart
+parser has a pre-parser element. The pre-parser recognizes and then replaces
+all tokens with their abbreviated format. Also if there are any compound nouns
+it should see if it can replace them by an auxiliary abbreviation if no
+abbreviation is specified in the abstract. So when it is found the next time
+there exists an abbreviated form. When we encountered conjunctions like “and”
+“but” or “that” we replaced the sentences with two equivalent sentences. </p>
+
+<p class=MsoNormal><span style='mso-tab-count:1'>            </span>Example-1:</p>
+
+<p class=MsoNormal><span style='mso-tab-count:2'>                        </span>“Enzyme
+S creates P and R” -&gt; “Enzyme S creates P” &amp; “Enzyme S creates R”</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>However, there are uncertain sentences that are very
+ambiguous to understand. Look at the following example:</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>“We are not sure if X causes Y” -&gt; “X may cause Y”</p>
+
+<p class=MsoNormal>or</p>
+
+<p class=MsoNormal>“It is uncertain that G produces H”-&gt;”G may produce H”</p>
+
+<p class=MsoNormal>also</p>
+
+<p class=MsoNormal>“It is unlikely that Y causes B”</p>
+
+<h2><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></h2>
+
+<p class=MsoNormal>These sentences are effectively thrown away if not parsed
+well.</p>
+
+<p class=MsoNormal>Another problem that we faced was the fact that Wordnet did
+not recognize various tenses of a verb so we had to create a list of some
+repeated verbs like “is”, “was”, “has” to be able to implement them. </p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes"> </span></p>
+
+<p class=MsoNormal>The chart parser reads the abstracts into an array sentences
+where each sentence is an array of words. After eliminating words like “a”,
+“the”, this representational tree structure of the expanded sentences are saved
+to an XML file. The figure below demonstrates this tree structure.</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>“Protein G causes X in Y when P”</p>
+
+<p class=MsoNormal>I think would parse into:</p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1026" type="#_x0000_t75"
+ style='width:404.25pt;height:222pt'>
+ <v:imagedata src="./Project_Plan_files/image005.jpg" o:title="sentencetree"/>
+</v:shape><![endif]--><![if !vml]><img width=539 height=296
+src="./Project_Plan_files/image006.jpg" v:shapes="_x0000_i1026"><![endif]></p>
+
+<p class=MsoNormal>This tree is then saved into an XML file where the Mental
+Representation section will retrieve it to do further processing. </p>
+
+<p class=MsoNormal><span style='mso-tab-count:1'>            </span>Efficiency:
+As a matter of fact our implementation proved to be very efficient as it parsed
+each abstract in between 3 to 5 seconds and wrote the output to file. We tried
+feeding the output straight into standard input stream when replacing words for
+more efficiency but because of time constraints we decided to leave the already
+good implementation untouched. </p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><b><span style='color:#FF6600'>Mental Representation:</span>
+</b>Originally we though we would represent the databases as shown below where
+we have an index of databases and each database consists of a predicate (along
+with its synonyms), the one or two operands to the predicate and a negation bit
+that if on meant we literally add a “not” in front of the predicate.</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1030" type="#_x0000_t75"
+ style='width:393pt;height:243pt'>
+ <v:imagedata src="./Project_Plan_files/image007.jpg" o:title="database"/>
+</v:shape><![endif]--><![if !vml]><img width=524 height=324
+src="./Project_Plan_files/image008.jpg" v:shapes="_x0000_i1030"><![endif]></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>But because this wasn’t spatially efficient we though we
+will implement it as a directed graph where each node represents an object
+model or a predicate. This is shown below.</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1031" type="#_x0000_t75"
+ style='width:333pt;height:255pt'>
+ <v:imagedata src="./Project_Plan_files/image009.jpg" o:title="DBgraph"/>
+</v:shape><![endif]--><![if !vml]><img width=444 height=340
+src="./Project_Plan_files/image010.jpg" v:shapes="_x0000_i1031"><![endif]></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>Here, we created a directed graph where the orange entries
+mark the verbs(predicates) and the gray ones mark the nouns. The path
+connecting two nouns is in fact their relationship with each other. This
+becomes more important in the next part(Fact Derivation).</p>
+
+<p class=MsoNormal>The edges are not weighted nor does the distance between
+node matter (they are equidistant). The terminal nodes represent nouns that
+only have one predicate. It is worth mentioning that the graph is not
+necessarily a complete graph but its degree is always even and all nodes have
+at least one edge connected to them.</p>
+
+<p class=MsoNormal>A full description of this part is available at: <a
+href="..\..\..\Program%20Files\Compilers\JBuilder\myprojects\Docs\serverdoc.txt">serverdoc.txt</a>
+and also in: <a
+href="..\..\..\Program%20Files\Compilers\JBuilder\myprojects\Docs\server.html">server.html</a>.</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='color:#FF6600'>Fact Derivation:<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-indent:.5in'><b style='mso-bidi-font-weight:
+normal'>Task:</b> Knowing the interface to the ontologies database, the Fact
+Derivation program will use inference rules, relations, comparing to synonyms
+and antonyms(not implemented because of time constraints) to come up with
+derived fact which are then written to file and added to the ontologies so an
+interface to the ontoloties database is critical. It will also output derived
+and grammatical facts (already in the ontologies database) upon a query from
+the query interface(if implemented). </p>
+
+<p class=MsoNormal><span style='mso-tab-count:1'>            </span><b>Implementation:
+</b>we use an OntologyInterface package to connect to a remote server and query
+the server for information on the ontology database. We use this within our
+Facts package which also contains the OntologyInterface and a PredicateLogic
+package. After we get a list of all verbs(predicates) in the ontology database,
+we use our WordnetInterface package to find synonyms(if time allowed antonyms)
+for the predicates and create a unified list of predicates. We then use our
+DerivedFacts class to derive new facts using inferences(Hypothetical Syllogism
+for now). We recursively call each predicate on the rest and add an edge to a
+vector array if there exists a path between two nodes. Because of extreme time
+constraints we weren’t able to finish this part but most of it is done. We also
+created a QueryInterface package which is not fully integrated with the system.
+The GrammaticalFacts class prints out the grammatical facts obtained from the
+ontology database to file.<span style="mso-spacerun: yes">  </span>We also made
+a wordStatistics package to count the number of occurrences of each word in the
+entire corpus. The result is at: <span style="mso-spacerun: yes"> </span><a
+href="..\..\..\Program%20Files\Compilers\JBuilder\myprojects\wordStatistics\Both.txt">..\wordStatistics\Both.txt</a></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><span style='mso-tab-count:1'>            </span><b>Challenges:
+</b>hard to get an operating system dependent Wordnet interface because of
+system command issue problems in Java. Of course the biggest challenge was the
+race against time.</p>
+
+<p class=MsoNormal><b><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></b></p>
+
+<p class=MsoNormal><b>Conclusion: </b>We were really short in time and putting
+all of this together was really hard at the end but we tried our best with
+couple of days of continuous programming. We learned a lot and hope to finish
+this project on our spare time.</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<h2><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></h2>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='color:blue'>Responsibilities:<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='color:blue'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='mso-bidi-font-weight:bold'>As of now the
+following are the assignments:<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-bidi-font-weight:bold'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>John: </b><span
+style='mso-bidi-font-weight:bold'>Mental Representation and ontology creation/interface
+design, running the ontology server.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Denise: </b><span
+style='mso-bidi-font-weight:bold'>Pre-parser/Chart Parser algorithms and design
+and Python interface with WordNet. Denise wrote all necessary functions and
+modules for this section except the Python-Wordnet interface where he used the
+Wordnet interface developed by Oliver Steele. You can find this Python
+interface with wordnet at:</span></p>
+
+<p class=MsoNormal><span style='mso-tab-count:1'>            </span></p>
+
+<p class=MsoNormal><span style='mso-tab-count:1'>            </span><a
+href="http://www.cs.brandeis.edu/~steele/sources/wordnet-python.html">http://www.cs.brandeis.edu/~steele/sources/wordnet-python.html</a></p>
+
+<p class=MsoNormal><span style='mso-bidi-font-weight:bold'><span
+style="mso-spacerun: yes"> </span><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-bidi-font-weight:bold'>He also made use of
+additional resources. The </span>Python Essential Reference (New Riders)(D.M.
+Beazley , New Riders publishing, 2000) was a key reference for building the
+parser in Python.</p>
+
+<p class=MsoNormal>In addition the Python support site at <a
+href="http://www.python.org/">http://www.python.org/</a> provided
+implementation hints and hacks that were used to construct the parser.</p>
+
+<p class=MsoNormal><span style='mso-bidi-font-weight:bold'><span
+style="mso-spacerun: yes"> </span><o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Bashir: </b><span
+style='mso-bidi-font-weight:bold'>Fact Derivation design, first order logic
+implementation, building query interface and information retrieval. Bashir
+wrote everything himself and implemented the Fact derivation part using
+knowledge of discrete mathematics, prepositional logic, first order predicate
+logic, use of prepositional semantics Tableaux implementation discussed
+theoretically in “First-Order Logic and Automated Theorem Proving”(M.Fitting,
+Springer-Verlag, 1990). Also use of logic representation and visualization from
+this book helped aid him in developing the First Order Logic system.<span
+style="mso-spacerun: yes">  </span>He also used <a
+href="http://www.javasoft.com/"><span style='mso-bidi-font-weight:normal'>http://www.javasoft.com/</span></a>
+as resource for aiding the project.<o:p></o:p></span></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='color:blue'>Additional Observations:<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>1) <i><u>Hierarchical structure:</u> </i>If we derive from a
+sentence Protein X causes disease Y, we also need to know what groups in its
+hierarchy Protein X belongs to. For example if someone queries Protein X we
+need to be able to say some facts about the more general parents of Protein X
+if such a hierarchy exists as follows for example:</p>
+
+<p class=MsoNormal>-Organ U</p>
+
+<p class=MsoNormal><span style='mso-tab-count:1'>            </span>-Tissue V</p>
+
+<p class=MsoNormal><span style='mso-tab-count:2'>                        </span>-DNA
+pair W<span style='mso-tab-count:1'>   </span></p>
+
+<p class=MsoNormal><span style='mso-tab-count:3'>                                    </span>-Protein
+X</p>
+
+<p class=MsoNormal><span style='mso-tab-count:4'>                                                </span>-I
+don’t know what</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>If there exists such a “is-a” relationship we should be able
+to say for example that:</p>
+
+<p class=MsoNormal>Protein X belongs/is in to DNA pair W</p>
+
+<p class=MsoNormal>Protein X belongs /is in to Tissue V</p>
+
+<p class=MsoNormal>Protein X belongs /is in to Organ U</p>
+
+<p class=MsoNormal>…</p>
+
+</div>
+
+</body>
+
+</html>

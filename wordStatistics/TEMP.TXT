@@ -1,0 +1,166 @@
+
+//Title:        Word Statistical Analyzer
+//Version:      
+//Copyright:    Copyright (c) 1999
+//Author:       Bashir Eghbali
+//Company:      UCSD
+//Description:  Analyzes the statistical word occurances in the given file of abstracts
+package wordStatistics;
+import java.util.*;
+import java.io.*;
+import javax.swing.*;
+
+public class wordStatistics
+{
+  protected static final int UI_SIZE = 100;
+  protected Vector words;
+  protected Vector wordsCount;
+  private boolean invokedStandalone = false;
+  String [] UI;
+
+  public wordStatistics()
+  {
+    words = new Vector(100,10);
+    wordsCount = new Vector(100,10);
+  }
+  public wordStatistics(int size)
+  {
+    this();
+    UI = new String[size];
+  }
+
+  public static void main(String[] args)
+  {
+    wordStatistics statistics = new wordStatistics(UI_SIZE);
+    statistics.makeVector("proteins.txt");
+    statistics.writeUI("UI.txt", UI_SIZE);
+    statistics.writeWords("Words.txt");
+    statistics.writeWordsCount("WordsCount.txt");
+    statistics.writeBoth("Both.txt");
+    statistics.invokedStandalone = true;
+    JOptionPane.showMessageDialog(null,"Done");
+  }
+
+  public void makeVector(String filename)
+  {
+    String line, stoken="";
+    int uiCounter = 0, temp1,i,j;
+    Integer temp2;
+    StringTokenizer token;
+    boolean found = false;
+    int k =0,sum=0, check=0;
+
+   try
+   {
+      BufferedReader inputfile = new BufferedReader(new FileReader(filename));
+      while((line = inputfile.readLine()) != null)
+      {
+        if(line.trim().indexOf("UI") != -1)
+        {
+          UI[uiCounter]=line;
+          uiCounter++;
+        }
+        else
+        {
+          token = new StringTokenizer(line," .,\t\n");
+          sum+=token.countTokens();
+          check = token.countTokens();
+          //System.out.print("checkBefore = "+check+"\t");
+          while(token.hasMoreTokens())
+          {
+            stoken = token.nextToken();
+           // System.out.println("["+token.hasMoreTokens()+"]+tokenCount = "+check);
+           // k++;
+            check--;
+            for (j = 0; j < words.size(); j++)
+            {
+
+              if(stoken.equals(words.elementAt(j)))
+              {
+                temp1 = Integer.parseInt(wordsCount.elementAt(j).toString());
+                temp2 = new Integer(++temp1);
+                wordsCount.setElementAt(temp2,j);
+
+                break;
+              }
+            }
+            if(!found)
+            {
+               words.addElement(stoken);
+
+               wordsCount.addElement(new Integer(1));
+
+               found = false;
+            }
+
+          } 
+         }
+        }
+     inputfile.close();
+     System.out.println("tokens = "+sum+"\ttimes executed = "+k);
+   }
+   catch(Exception e)
+   {
+      System.out.println("an error occured: " + e.getMessage());
+   }
+  }
+
+  public void writeUI(String filename, int uisize)
+  {
+    try
+    {
+      PrintWriter outputfile = new PrintWriter(new FileOutputStream(filename));
+      for(int i = 0; i < uisize; i++)
+        outputfile.println(UI[i]);
+      outputfile.close();
+    }
+    catch(Exception e)
+    {
+    System.out.println("an error occured: " + e.getMessage());
+    }
+  }
+
+  public void writeWords(String filename)
+  {
+    try
+    {
+      PrintWriter outputfile = new PrintWriter(new FileOutputStream(filename));
+      for(int i = 0; i < words.size(); i++)
+        outputfile.println(words.elementAt(i));
+      outputfile.close();
+    }
+    catch(Exception e)
+    {
+    System.out.println("an error occured: " + e.getMessage());
+    }
+  }
+
+  public void writeWordsCount(String filename)
+  {
+    try
+    {
+      PrintWriter outputfile = new PrintWriter(new FileOutputStream(filename));
+      for(int i = 0; i < wordsCount.size(); i++)
+        outputfile.println(wordsCount.elementAt(i));
+      outputfile.close();
+    }
+    catch(Exception e)
+    {
+    System.out.println("an error occured: " + e.getMessage());
+    }
+  }
+  public void writeBoth(String filename)
+  {
+  try
+    {
+      PrintWriter outputfile = new PrintWriter(new FileOutputStream(filename));
+      for(int i = 0; i < words.size(); i++)
+        outputfile.println(words.elementAt(i)+"\t\t\t"+wordsCount.elementAt(words.indexOf(words.elementAt(i))));
+      outputfile.close();
+    }
+    catch(Exception e)
+    {
+    System.out.println("an error occured: " + e.getMessage());
+    }
+  }
+}

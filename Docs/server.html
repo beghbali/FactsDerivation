@@ -1,0 +1,40 @@
+<title>Ontology Server</title>
+<body bgcolor=#ffffff>
+<center>Ontology Server</center><p>
+
+The ontology server acts as a central repository for information gleaned
+from parsing the abstracts. It consists of a relational network with
+directional links between the elements.<p>
+An element in this case consists of any word from the abstracts. Noun phrases,
+verbs, adjective phrases, etc. are all represented as 'concepts' in the
+network.<p>
+The ontology interface is command-line via a port on the hosting server.
+Commands are entered in a simple, generic sql-like syntax. Commands are
+summarized at the end of this section.<p>
+Each concept in the network can have any number of input and output links
+to other concepts. These links take the form of a list of input-output
+pairs. Any specific link may have any number of inputs or outputs. Inputs
+are connected by boolean and. Thus, a link's output is only asserted if
+all inputs are not known to be false (which means they could be ambiguous
+or true).<p>
+Each concept has a list of these input-output pair links, with which relations
+and implications can be determined. The links are initially established by
+corresponding relations in the abstracts.<p>
+Relations among the elements of the network are established by setting flags
+on the elements and performing a kind of BFS to find any intersection points.
+For example, if we had the relation "protein X causes low pH." and elsewhere,
+the relation "low pH causes cancer" (obviously completely manufactured), and
+we wanted to know the relation between protein X and cancer, we would first
+flag "protein X" and "cancer". After determining that there were no elements
+in the network possessing flags from both sides, we would expand each side's
+flags to the concepts directly connected to each of them, respectively.
+Continuing in this manner, there would eventually be a flag at "low pH",
+and we can report this as the query describes.<p>
+We attempt to create deeper associations by generalizing word meanings to some
+extent. We use wordnet to determine if two words are close enough to be
+considered synonyms, in which case they both exist as a single concept in
+the network. Using this, it is more likely to get some generalizations, but
+at the expense of not taking the time to examine other possible connections.
+This simplification has been used elsewhere [<a href="#1">1</a>] with some success.<p>
+<p>
+<a name="1">[1]</a> F. Antonacci, C.M. Calamani, "Capturing the deep meaning of texts through deduction and inference", IBM J. Res. Develop. Vol 36 No 3, May 1992(333)<p>
